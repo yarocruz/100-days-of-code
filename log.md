@@ -8,4 +8,12 @@
 
 **Link to work:** The files are currently in this forked repo. Need to organize this.
 
+### Day 2: March 3, 2018 
+
+**Today's Progress**: Made a totally bananas image mover. Today I was running short on time and energy and started late, so I didn't have any idea prepared. I just added a way to move an the position of an image on the page by clicking a button. It's all about using event listeners, and using style.position through JS to move stuff around.
+
+**Thoughts:** Starting to think that one hour of coding, depending on the project, is not enough time to build anything substantial. Or maybe I'm just slow. 
+
+**Link to work:** The files are currently in this forked repo. Need to organize this.
+
 
