@@ -1,0 +1,31 @@
+.main-wrap {
+  max-width: 700px;
+  margin: 0 auto;
+}
+
+img {
+  max-width: 100%;
+  display: block;
+}
+
+img:first-child {
+  position: relative;
+}
+img:last-child {
+  position: absolute;
+  top: -60px;
+  left: 340px;
+}
+
+  img:last-child:hover {
+    opacity: 0.3;
+  }
+
+button {
+  margin: 20px auto;
+  color: white;
+  background-color: #111;
+  padding: 15px 30px;
+  border: none;
+  border-radius: 6px;
+}
