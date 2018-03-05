@@ -16,4 +16,10 @@
 
 **Link to work:** The files are currently in this forked repo. Need to organize this.
 
+### Day 3: March 4, 2018 
+
+**Today's Progress**: Today was mostly about studying a code example to understand the logic behind it. I followed this [tutorial](https://javascript.info/js-animation) on JavaScript animations. It seems simple enough, but there is a lot going on with these 20 or so lines on the script.
+
+**Link to work:** The files are currently in this forked repo. Need to organize this.
+
 
