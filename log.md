@@ -22,4 +22,12 @@
 
 **Link to work:** The files are currently in this forked repo. Need to organize this.
 
+### Day 4: March 5, 2018 
+
+**Today's Progress**: Today I tried to solve this [code excercise](https://eloquentjavascript.net/code/#14.1) from the Eloquent JavaScript book. I had the right idea at the beginning of looping through the object with a for loop, but I was only creating one instance of the elements. So after an hour at taking a stab at it, I clicked the reveal solution button. I'm still not entirely 100% sure how the Object.keys with paramates like field, data[0] and all that work, but I get the gist that it's looping first through the keys and the second time around it loops through the properties.
+
+**Thoughts:** Need to look into the forEach method more. 
+
+**Link to work:** The files are currently in this forked repo. Need to organize this.
+
 
