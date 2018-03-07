@@ -30,4 +30,10 @@
 
 **Link to work:** The files are currently in this forked repo. Need to organize this.
 
+### Day 5: March 6, 2018 
+
+**Today's Progress**: Today I created a responsive navigation menu, with the so called hamburger icon. I've done these before, but I usually just find code elsewhere, or just use the bootstrap framework. My main goal was to figure out how to do it without googling code examples on how to do these. I knew that first I had to work with CSS to set display: none according to window width size. I only took about 10 lines of JavaScript to get it working. I'm sure there are better ways to do these, but I'm pretty proud of myself for solving this without looking for examples. The idea is to get myself more comfortable and understand the logic of JS. 
+
+**Link to work:** The files are currently in this forked repo. Need to organize this.
+
 
