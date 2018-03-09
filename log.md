@@ -36,4 +36,10 @@
 
 **Link to work:** The files are currently in this forked repo. Need to organize this.
 
+### Day 6: March 8, 2018 
+
+**Today's Progress**: I fixed an problem with the navigation menu I made on Day 5. Even though I figured out how to make a menu appear, I went about the wrong way. My approach first of all was more complicated than it needed to be. I started first with creating to list menu items in the HTML markup, hidding them and unhiding them with media queries is display: none/block, and used JavaScript to add the event listener, and changing the display again with element.style.display. That approach wasn't working as intended because when I scrolled back the brower to over 600px in width, after clicking the burger, the list menu items stayed. But after spending a bit over an hour today, looking up tutorials and other approaches, I found that I didn't need to use to list items on the page, and that all that the JS needed to do was to add class and remove a class. The bulk of the work needs to be done in the CSS, specifically in the media queries. Now when I scroll the browswer back over 600px wide, it sets back the styles that where defined before the media querie, even after clicking the burger. Hope this makes sense to anyone who's reading it.
+
+**Link to work:** The files are currently in this forked repo. Need to organize this.
+
 
