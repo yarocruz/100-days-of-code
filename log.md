@@ -8,6 +8,14 @@
 
 **Link to work:** [Show / Hide Toggle](https://codepen.io/JayCruz/pen/MqvBJp)
 
+### Day 2: Sept 6, 2018 
+
+**Today's Progress**: Started a brand new course on Treehouse called Object Oriented Javascript by Example [Link](https://teamtreehouse.com/library/objectoriented-javascript-by-example)
+
+**Thoughts:** This hasn't been completed yet. This is a game called "4 in a Row". Basically Connect 4. It uses Object classes. It's a really super cool project, but I'm still not at the level to building something like this on my own. I have to start thinking of coding project ideas that are at my level. It's gonna be a process.
+
+**Link to work:** [OOJ By Example](https://codepen.io/JayCruz/pen/KxXGmb)
+
 
 
 
