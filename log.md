@@ -16,6 +16,14 @@
 
 **Link to work:** [OOJ By Example](https://codepen.io/JayCruz/pen/KxXGmb)
 
+### Day 3: Sept 7, 2018 
+
+**Today's Progress**: Still Treehouse's  Object Oriented Javascript by Example course. [Link](https://teamtreehouse.com/library/objectoriented-javascript-by-example)
+
+**Thoughts:** This course is way over my head. I'm following along, but this is way to big of a project for me. It's also been a long day for me, so I'm pretty fused. At least I'm getting quicker at typing code. At least I'm learning that there's still so much I need to learn. 
+
+**Link to work:** [OOJ By Example](https://codepen.io/JayCruz/pen/KxXGmb)
+
 
 
 
