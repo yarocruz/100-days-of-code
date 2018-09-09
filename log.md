@@ -24,6 +24,16 @@
 
 **Link to work:** [OOJ By Example](https://codepen.io/JayCruz/pen/KxXGmb)
 
+### Day 4: Sept 8, 2018 
+
+**Today's Progress**: Completed Treehouse's  Object Oriented Javascript by Example course. [Link](https://teamtreehouse.com/library/objectoriented-javascript-by-example)
+
+**Thoughts:** Ok. This is super complex. I just copied the code provided from the lessons or would simply pause the video to type it. Of course I would stop and watch the video and go through the code a bit to understand what's happening. I think I understand what's going on on a general level. This a very component like way of coding. Very similar to React I would say, but with plain ol' vanilla JavaScript. Every component in the the game is a class. One the most complicated pieces of code is the checkForWin method in the Game class. If there's anything I learned in the past three days about this, is that there's so much I need to learn. not just JavaScript, but computer programming in general. I wouldn't know how to code up an application or a game because I have a hard time breaking things down to tiny little systems like that. 
+
+I'm gonna keep pushing tho. I need to go down a bit, and find simpler things to do. The game should work tho.
+
+**Link to work:** [OOJ By Example](https://codepen.io/JayCruz/pen/KxXGmb)
+
 
 
 
