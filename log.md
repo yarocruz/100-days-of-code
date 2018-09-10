@@ -34,6 +34,18 @@ I'm gonna keep pushing tho. I need to go down a bit, and find simpler things to 
 
 **Link to work:** [OOJ By Example](https://codepen.io/JayCruz/pen/KxXGmb)
 
+### Day 5: Sept 9, 2018 
+
+**Today's Progress**: Going back to simpler stuff. 
+
+**Thoughts:** I had an idea for a personal project. It's a work related idea, so I don't think it's appropriate if I share all the details, but the gist of the project, or what I want the app to do, is to filter through an array of objects. The object or array will catalogue employee names and their skills. According to their skills, I can arrange them in a particular way. 
+
+I think this is a more purposeful way of deliberately practice coding with JavaScript. 
+
+Everyday it's a struggle for me. But I'm gonna keep on. Linking to the code, but right now it does absolutely nothing.
+
+**Link to work:** [SHOOTERS](https://codepen.io/JayCruz/pen/dqJKWP)
+
 
 
 
