@@ -46,6 +46,16 @@ Everyday it's a struggle for me. But I'm gonna keep on. Linking to the code, but
 
 **Link to work:** [SHOOTERS](https://codepen.io/JayCruz/pen/dqJKWP)
 
+### Day 6: Sept 10, 2018 
+
+**Today's Progress**: Worked on Shooters Project 
+
+**Thoughts:** Right around the end of the coding hour, I finally figured out how to accomplish something by myself. I was attempting to loop through an array of objects using more of the newer array iteration methods, but I was not getting the result I wanted. After a while of digging and looking for ways to loop through arrays and objects, I finally landed a simple solution with a for loop. I think I finally really understand how a for loop works. 
+
+It isn't much what I accomplished today, but it's a start. 
+
+**Link to work:** [SHOOTERS](https://codepen.io/JayCruz/pen/dqJKWP)
+
 
 
 
