@@ -66,6 +66,14 @@ I'm really starting to enjoy this. Loving the results I'm getting. Coding is so 
 
 **Link to work:** [SHOOTERS](https://codepen.io/JayCruz/pen/dqJKWP)
 
+### Day 8: Sept 12, 2018 
+
+**Today's Progress**: Study Day
+
+**Thoughts:** Today was more of a study day. I completed a short Treehouse course on Objects, which is useful or could be useful in the future for my Shooters project. I also completed some Free Code Camp Excercises. There's a lot there that I can keep doing. A the end of the hour I played some more with my shooters project. Still trying to wrap my head around something that a human brain could understand and do without describing every single tedious step. Basically, the idea is to automate and print out something that can take an hour for a person to do. I'm positive that I'll find the right approach.
+
+**Link to work:** [SHOOTERS](https://codepen.io/JayCruz/pen/dqJKWP)
+
 
 
 
