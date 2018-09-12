@@ -56,6 +56,16 @@ It isn't much what I accomplished today, but it's a start.
 
 **Link to work:** [SHOOTERS](https://codepen.io/JayCruz/pen/dqJKWP)
 
+### Day 7: Sept 11, 2018 
+
+**Today's Progress**: Worked on Shooters Project 
+
+**Thoughts:** Did a bit of code refactoring. I realized that I was repeating the same for loop three times, when that was completely unnecessary. There was really just three conditions. I managed to use the Math.floor(Math.random() method as a way to print out to console random shooters. Still figuring out how would I have a shooter not have the same location on the same dip. There's probably going to be some more conditional statements to get this working. 
+
+I'm really starting to enjoy this. Loving the results I'm getting. Coding is so cool. 
+
+**Link to work:** [SHOOTERS](https://codepen.io/JayCruz/pen/dqJKWP)
+
 
 
 
