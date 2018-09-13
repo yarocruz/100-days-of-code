@@ -74,6 +74,14 @@ I'm really starting to enjoy this. Loving the results I'm getting. Coding is so 
 
 **Link to work:** [SHOOTERS](https://codepen.io/JayCruz/pen/dqJKWP)
 
+### Day 9: Sept 13, 2018 
+
+**Today's Progress**: Study Day / Vue Js Basics
+
+**Thoughts:** Started a course on Treehouse on Vue Js. Digging it. Basic day. Vue is basically a class object. Pretty cool.  
+
+**Link to work:** [Vue JS](https://codepen.io/JayCruz/pen/wEXQoz)
+
 
 
 
