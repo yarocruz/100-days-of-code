@@ -82,6 +82,14 @@ I'm really starting to enjoy this. Loving the results I'm getting. Coding is so 
 
 **Link to work:** [Vue JS](https://codepen.io/JayCruz/pen/wEXQoz)
 
+### Day 10: Sept 14, 2018 
+
+**Today's Progress**: Study Day / Vue Js Basics
+
+**Thoughts:** Second day of going through Treehouse Vue Js Basics course. So far I think this is a really nice framework. It's certainly a bit easier to get into than something like React. The templating syntax already feels familiar to me since I have played with things like Jekyll and customizing Wordpress themes. 
+
+**Link to work:** [Vue JS](https://codepen.io/JayCruz/pen/wEXQoz)
+
 
 
 
