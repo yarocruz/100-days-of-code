@@ -98,6 +98,16 @@ I'm really starting to enjoy this. Loving the results I'm getting. Coding is so 
 
 **Link to work:** [Vue JS / Flash Card App](https://codepen.io/JayCruz/pen/jvpRBK)
 
+### Day 12: Sept 16, 2018 
+
+**Today's Progress**: Completed Vue Js Basics Treehouse Course
+
+**Thoughts:** Had a day off today so started early. I completed the Vue JS Basics course. I'm really digging Vue. React was a challenge to grasp, but I still think it's an awesome tool. Vue on the other hand is very easy to grasp. I think I'm gonna keep learning and playing with Vue. 
+
+The flash Card app was completed. I also completed a [practice course on treehouse.](https://teamtreehouse.com/library/practice-vuejs-templating)
+
+**Link to works:** [Vue JS / Flash Card App](https://codepen.io/JayCruz/pen/jvpRBK) [Vue Js / Basic Templating Card](https://codepen.io/JayCruz/pen/vzzeOJ)
+
 
 
 
