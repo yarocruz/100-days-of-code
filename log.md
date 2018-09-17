@@ -108,6 +108,12 @@ The flash Card app was completed. I also completed a [practice course on treehou
 
 **Link to works:** [Vue JS / Flash Card App](https://codepen.io/JayCruz/pen/jvpRBK) [Vue Js / Basic Templating Card](https://codepen.io/JayCruz/pen/vzzeOJ)
 
+### Day 13: Sept 17, 2018 
 
+**Today's Progress**: Practice Vue Js
+
+**Thoughts:** Woke up that the crack of dawn to start my coding hour. I'm really loving Vue. It feels more intuitive to use. I worked on a [Treehouse practice course on Vue Js list rendering](https://teamtreehouse.com/library/practice-vuejs-list-rendering.
+
+**Link to works:** [Vue JS / List Rendering](https://codepen.io/JayCruz/pen/QVZwmQ) 
 
 
