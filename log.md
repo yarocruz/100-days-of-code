@@ -116,4 +116,12 @@ The flash Card app was completed. I also completed a [practice course on treehou
 
 **Link to works:** [Vue JS / List Rendering](https://codepen.io/JayCruz/pen/QVZwmQ) 
 
+### Day 14: Sept 18, 2018 
+
+**Today's Progress**: Random Day
+
+**Thoughts:** I feel like today was an unproductive day. I did one hour, but I wasn't really focused on something in particular. I started out working on one of my projects. I started last night working on it. I just want to make a simple webapp where you can add cards with info, you can edit an instance of a card, and you can add or delete cards. I just been struggling to give this data a structure that makes sense. I tried making it with Vue, but I can't wrap my head around it. I'm having a hard time simplifying it. 
+
+**Link to works:** [Random Day](https://codepen.io/JayCruz/pen/BOGxdK) 
+
 
