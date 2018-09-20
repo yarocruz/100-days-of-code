@@ -128,8 +128,16 @@ The flash Card app was completed. I also completed a [practice course on treehou
 
 **Today's Progress**: Today was a good Day
 
-**Thoughts:** It's funny. Today I didn't really go for a specific end goal, but I ended with a more functional web app. But more importantly, I figured things out on my own by taking each idea step by step. I'm still playing with Vue and I'm slowly falling in love with it. I don't know if it's because it's easier to understand or if this daily coding challenge is starting to help me think like a coder, but today simply was a good day. What was good about today is that I felt that everything that I been studying and learning far is starting to materialize in my brain somehow. 
+**Thoughts:** It's funny. Today I didn't really go for a specific end goal, but I ended with a more functional web app. But more importantly, I figured things out on my own by taking each idea step by step. I'm still playing with Vue and I'm slowly falling in love with it. I don't know if it's because it's easier to understand or if this daily coding challenge is starting to help me think like a coder, but today simply was a good day. What was good about today is that I felt that everything that I've been studying and learning so far is starting to materialize in my brain somehow. 
 
 **Link to works:** [Vue Js Form Inputer Thingie](https://codepen.io/JayCruz/pen/oPJRQb) 
+
+### Day 16: Sept 20, 2018 
+
+**Today's Progress**: Code Pairing and Some More Vue
+
+**Thoughts:** Today I screencasted and chatted with a coder buddy. We talked about Vue, frontend, and coding in general. We are starting an emoji memory game. After that I started another [intro Vue JS course](https://www.vuemastery.com/courses/intro-to-vue-js) It's another nice intro. The intro courses are free, but there's a lot of stuff there. Haven't finished it yet, but what I liked about it is that they really teach you the concepts behind each of the vue directives like v-bind, v-show vs v-if, and their shortcuts. 
+
+**Link to works:** [Shopping Cart with Vue JS](https://codepen.io/JayCruz/pen/NLozwg) 
 
 
