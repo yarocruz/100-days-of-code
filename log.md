@@ -124,4 +124,12 @@ The flash Card app was completed. I also completed a [practice course on treehou
 
 **Link to works:** [Random Day](https://codepen.io/JayCruz/pen/BOGxdK) 
 
+### Day 15: Sept 19, 2018 
+
+**Today's Progress**: Today was a good Day
+
+**Thoughts:** It's funny. Today I didn't really go for a specific end goal, but I ended with a more functional web app. But more importantly, I figured things out on my own by taking each idea step by step. I'm still playing with Vue and I'm slowly falling in love with it. I don't know if it's because it's easier to understand or if this daily coding challenge is starting to help me think like a coder, but today simply was a good day. What was good about today is that I felt that everything that I been studying and learning far is starting to materialize in my brain somehow. 
+
+**Link to works:** [Vue Js Form Inputer Thingie](https://codepen.io/JayCruz/pen/oPJRQb) 
+
 
