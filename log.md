@@ -140,4 +140,12 @@ The flash Card app was completed. I also completed a [practice course on treehou
 
 **Link to works:** [Shopping Cart with Vue JS](https://codepen.io/JayCruz/pen/NLozwg) 
 
+### Day 17: Sept 21, 2018 
+
+**Today's Progress**: Early morning session
+
+**Thoughts:** Got up about 5:30am today. Started my hour around 5:40 or so. Mostly it was a study session. Read more of the Vue docs. Created a Vue component and tried to implement it to the emoji cards.  
+
+**Link to works:** [Vue Component](https://codepen.io/JayCruz/pen/zJbwmy) 
+
 
