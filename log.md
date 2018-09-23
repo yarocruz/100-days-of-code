@@ -150,7 +150,7 @@ The flash Card app was completed. I also completed a [practice course on treehou
 
 ### Day 18: Sept 22, 2018 
 
-**Today's Progress**: More Vues
+**Today's Progress**: The Tweet Box
 
 **Thoughts:** Started working on another tutorial today. I think this is a good one. It's not too above my level, but not too low. I'm past the intro tutorials, so this excercise is perfect. It's basically a recreation of the Twitter compose interface. [A Vue.js introduction for people who know just enough jQuery to get by
 ](https://medium.freecodecamp.org/vue-js-introduction-for-people-who-know-just-enough-jquery-to-get-by-eab5aa193d77) This is seriously helping cement the the concepts on how a Vue instance works. 
