@@ -157,4 +157,12 @@ The flash Card app was completed. I also completed a [practice course on treehou
 
 **Link to works:** [Tweet Box](https://codepen.io/JayCruz/pen/LJvLrG) 
 
+### Day 19: Sept 23, 2018 
+
+**Today's Progress**: Finished with the Tweet Box
+
+**Thoughts:** Finishe with the [Tweet Box tutorial](https://medium.freecodecamp.org/vue-js-introduction-for-people-who-know-just-enough-jquery-to-get-by-eab5aa193d77) Not exactly sure how the photo uploading functionality works, but this gives me something more to look into. Didn't make the modal work, because I though it was unnecessary. I also started playing around with Regular Expressions. I'm on this chapter with [Eloquent Javascript](http://eloquentjavascript.net/09_regexp.html). 
+
+**Link to works:** [Tweet Box](https://codepen.io/JayCruz/pen/LJvLrG) 
+
 
