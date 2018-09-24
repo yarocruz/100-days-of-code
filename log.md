@@ -161,8 +161,15 @@ The flash Card app was completed. I also completed a [practice course on treehou
 
 **Today's Progress**: Finished with the Tweet Box
 
-**Thoughts:** Finishe with the [Tweet Box tutorial](https://medium.freecodecamp.org/vue-js-introduction-for-people-who-know-just-enough-jquery-to-get-by-eab5aa193d77) Not exactly sure how the photo uploading functionality works, but this gives me something more to look into. Didn't make the modal work, because I though it was unnecessary. I also started playing around with Regular Expressions. I'm on this chapter with [Eloquent Javascript](http://eloquentjavascript.net/09_regexp.html). 
+**Thoughts:** Finished with the [Tweet Box tutorial](https://medium.freecodecamp.org/vue-js-introduction-for-people-who-know-just-enough-jquery-to-get-by-eab5aa193d77) Not exactly sure how the photo uploading functionality works, but this gives me something more to look into. Didn't make the modal work, because I though it was unnecessary. I also started playing around with Regular Expressions. I'm on this chapter with [Eloquent Javascript](http://eloquentjavascript.net/09_regexp.html). 
 
 **Link to works:** [Tweet Box](https://codepen.io/JayCruz/pen/LJvLrG) 
 
+### Day 20: Sept 24, 2018 
+
+**Today's Progress**: Learning about JavaScript Regular Expressions aka Regex
+
+**Thoughts:** I've been reading the Eloquent JavaScript book, a book I highly recommend to anyone who wants to dig a bit deeper into JavaScript. I'm on the chapter on Regular Expressions, but it got to a point where I started getting lost. Since I knew [Treehouse had a course on it](https://teamtreehouse.com/library/regular-expressions-in-javascript) I decided to start on it. The course gives you a breakdown on how regex works. Basically it's a way to write string patterns that you can test against. The course gives you a project so you can validate a form. This is pretty nifty.
+
+**Link to works:** [Regex / Form Validation](https://codepen.io/JayCruz/pen/ZMNZvg) 
 
