@@ -173,3 +173,11 @@ The flash Card app was completed. I also completed a [practice course on treehou
 
 **Link to works:** [Regex / Form Validation](https://codepen.io/JayCruz/pen/ZMNZvg) 
 
+### Day 21: Sept 25, 2018 
+
+**Today's Progress**: Finished Regex Course
+
+**Thoughts:** Finished the [Regex course](https://teamtreehouse.com/library/regular-expressions-in-javascript) There's something wrong with the Telephone validation. Something is broke in there, but that's allright. The user, password, and email validators are working. Basically the tooltip will stop showing up once the conditions are met. This stuff is super cool.
+
+**Link to works:** [Regex / Form Validation](https://codepen.io/JayCruz/pen/ZMNZvg) 
+
