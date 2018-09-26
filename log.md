@@ -181,3 +181,11 @@ The flash Card app was completed. I also completed a [practice course on treehou
 
 **Link to works:** [Regex / Form Validation](https://codepen.io/JayCruz/pen/ZMNZvg) 
 
+### Day 22: Sept 26, 2018 
+
+**Today's Progress**: Image Slider with Vue
+
+**Thoughts:** Made an Image Slider with Vue. Followed [this tutorial](https://matthiashager.com/image-slider-vuejs-tutorial). One thing I'm starting to notice when I do tutorials is I'm spotting syntax typos. I understand most of the code in this one. Not sure exactly what's going on in the computed function. All I know is that it's literally doing some math and makes the slider not crash, particularly when you hit the prev "button". 
+
+**Link to works:** [Slide](https://codepen.io/JayCruz/pen/YOmOeW) 
+
