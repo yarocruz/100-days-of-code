@@ -193,7 +193,7 @@ The flash Card app was completed. I also completed a [practice course on treehou
 
 **Today's Progress**: Modular CSS with Sass
 
-**Thoughts:** Today was a hard one. I tried waking up early because I knew I was going to be out all day. I did manage to do 45 minutes in the morning. I started a course on [Treehouse on Modular Css](https://teamtreehouse.com/library/modular-css-with-sass) It's super interesting advanced stuff with SASS. Loving the fact that you can make funtions with SASS. 
+**Thoughts:** Today was a hard one. I tried waking up early because I knew I was going to be out all day. I did manage to do 45 minutes in the morning. I put in some extra 15 minutes almost at midgnigh. I started a course on [Treehouse on Modular Css](https://teamtreehouse.com/library/modular-css-with-sass) It's super interesting advanced stuff with SASS. Loving the fact that you can make funtions with SASS. 
 
 **Link to works:** No link today
 
