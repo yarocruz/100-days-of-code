@@ -189,3 +189,11 @@ The flash Card app was completed. I also completed a [practice course on treehou
 
 **Link to works:** [Slide](https://codepen.io/JayCruz/pen/YOmOeW) 
 
+### Day 23: Sept 27, 2018 
+
+**Today's Progress**: Modular CSS with Sass
+
+**Thoughts:** Today was a hard one. I tried waking up early because I knew I was going to be out all day. I did manage to do 45 minutes in the morning. I started a course on [Treehouse on Modular Css](https://teamtreehouse.com/library/modular-css-with-sass) It's super interesting advanced stuff with SASS. Loving the fact that you can make funtions with SASS. 
+
+**Link to works:** No link today
+
