@@ -201,6 +201,6 @@ The flash Card app was completed. I also completed a [practice course on treehou
 
 **Today's Progress**: Started JavaScript 30 Course
 
-**Thoughts:** I have been meaning to start this one for a while. I know lot's of folks that have started the 100 days challenge are familiar with [Wes Bos Build 30 Thinks in 30 Days with 30 Tutorials ](https://courses.wesbos.com/account/access/5aa411a64f754d18086b2db9/view/194130581) This are the kinds of projects are ready for now. I'm also still reading up on SASS, modular CSS, and generally trying to improve my CSS game. 
+**Thoughts:** I have been meaning to start this one for a while. I know lot's of folks that have started the 100 days challenge are familiar with [Wes Bos Build 30 Things in 30 Days with 30 Tutorials ](https://courses.wesbos.com/account/access/5aa411a64f754d18086b2db9/view/194130581) This are the kinds of projects are ready for now. I'm also still reading up on SASS, modular CSS, and generally trying to improve my CSS game. 
 
 **Link to works:** [JavaScript Drumkit](https://codepen.io/JayCruz/pen/bmNVwz)
