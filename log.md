@@ -204,3 +204,11 @@ The flash Card app was completed. I also completed a [practice course on treehou
 **Thoughts:** I have been meaning to start this one for a while. I know lot's of folks that have started the 100 days challenge are familiar with [Wes Bos Build 30 Things in 30 Days with 30 Tutorials ](https://courses.wesbos.com/account/access/5aa411a64f754d18086b2db9/view/194130581) This are the kinds of projects are ready for now. I'm also still reading up on SASS, modular CSS, and generally trying to improve my CSS game. 
 
 **Link to works:** [JavaScript Drumkit](https://codepen.io/JayCruz/pen/bmNVwz)
+
+### Day 25: Sept 29, 2018 
+
+**Today's Progress**: Made a Clock
+
+**Thoughts:** Made a clock using CSS and Js by following the day #2 tutorial of Wes Bos JavaScript 30. It's a pretty clever sort of hack of using transform-origin, transform: rotate(), and the transition-timing-function property. The JS was just 20 lines and the trick is using the new Date function. Then it's all abou the setInterval function. Pretty cool stuff. I finished making this in about 30 - 35 minutes. I spent the remaining time watching the Treehouse tutorial on modular CSS with SASS.  
+
+**Link to works:** [CSS and JS Clock](https://codepen.io/JayCruz/pen/GYgGLM)
