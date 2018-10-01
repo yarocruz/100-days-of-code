@@ -223,4 +223,12 @@ This was also a very quick project to complete. After I was done I started watch
 
 **Link to works:** [CSS Variables](https://codepen.io/JayCruz/pen/rqVeyq)
 
+### Day 27: Oct 1, 2018 
+
+**Today's Progress**: Array Cardio and Treehouse NPM Course
+
+**Thoughts:** Today was all about array methods. Methods like filter, map, sort, and reduce. I'm still not sure how reduce works. I was done in half an hour. After I was done with that I continued with the Treehouse NPM course. 
+
+**Link to works:** [Array Methods](https://codepen.io/JayCruz/pen/rqVeyq)
+
 
