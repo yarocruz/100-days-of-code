@@ -217,7 +217,7 @@ The flash Card app was completed. I also completed a [practice course on treehou
 
 **Today's Progress**: Updating CSS Variables with JS
 
-**Thoughts:** Third project with Wes Bos's JavaScript30 course. Today is was about using CSS Variables, not SASS, but the new CSS variable implementation, and updating it with JS. Another thing I'm getting surprised about are these input range types that I didn't know. There's a couple of things I had forgotten about HTML. I didn't even know about <kbd> too. 
+**Thoughts:** Third project with Wes Bos's JavaScript30 course. Today is was about using CSS Variables, not SASS, but the new CSS variable implementation, and updating it with JS. Another thing I'm getting surprised about are these input range types that I didn't know. There's a couple of things I had forgotten about HTML. I didn't even know about the kbd element either. I think it's time I brush up on my HTML. 
   
 This was also a very quick project to complete. After I was done I started watching on [Treehouse the NPM Basics Course](https://teamtreehouse.com/library/npm-basics)
 
