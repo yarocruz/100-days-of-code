@@ -212,3 +212,15 @@ The flash Card app was completed. I also completed a [practice course on treehou
 **Thoughts:** Made a clock using CSS and Js by following the day #2 tutorial of Wes Bos JavaScript 30. It's a pretty clever sort of hack of using transform-origin, transform: rotate(), and the transition-timing-function property. The JS was just 20 lines and the trick is using the new Date function. Then it's all abou the setInterval function. Pretty cool stuff. I finished making this in about 30 - 35 minutes. I spent the remaining time watching the Treehouse tutorial on modular CSS with SASS.  
 
 **Link to works:** [CSS and JS Clock](https://codepen.io/JayCruz/pen/GYgGLM)
+
+### Day 26: Sept 30, 2018 
+
+**Today's Progress**: Updating CSS Variables with JS
+
+**Thoughts:** Third project with Wes Bos's JavaScript30 course. Today is was about using CSS Variables, not SASS, but the new CSS variable implementation, and updating it with JS. Another thing I'm getting surprised about are these input range types that I didn't know. There's a couple of things I had forgotten about HTML. I didn't even know about <kbd> too. 
+  
+This was also a very quick project to complete. After I was done I started watching on [Treehouse the NPM Basics Course](https://teamtreehouse.com/library/npm-basics)
+
+**Link to works:** [CSS Variables](https://codepen.io/JayCruz/pen/rqVeyq)
+
+
