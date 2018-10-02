@@ -231,4 +231,10 @@ This was also a very quick project to complete. After I was done I started watch
 
 **Link to works:** [Array Methods](https://codepen.io/JayCruz/pen/rqVeyq)
 
+### Day 28: Oct 2, 2018 
 
+**Today's Progress**: Flex Panels Image Gallery
+
+**Thoughts:** The fifth project for Wes Bos JavaScript30 was more CSS that JS. It was all about Flexbox. Most of the magic is done with the transform property which translates the Y position of the top and bottom paragraphs, which in this case are the two words in each image panel. There's also a really cool transition effect that uses the cubic-bezier method. Finally, the basic thing that JS does in this exercise is toggle classes when the panel is clicked and also when a "transition ends". 
+
+**Link to works:** [Flex Panels](https://codepen.io/JayCruz/pen/zmvVvb)
