@@ -238,3 +238,11 @@ This was also a very quick project to complete. After I was done I started watch
 **Thoughts:** The fifth project for Wes Bos JavaScript30 was more CSS that JS. It was all about Flexbox. Most of the magic is done with the transform property which translates the Y position of the top and bottom paragraphs, which in this case are the two words in each image panel. There's also a really cool transition effect that uses the cubic-bezier method. Finally, the basic thing that JS does in this exercise is toggle classes when the panel is clicked and also when a "transition ends". 
 
 **Link to works:** [Flex Panels](https://codepen.io/JayCruz/pen/zmvVvb)
+
+### Day 29 Oct 3, 2018 
+
+**Today's Progress**: Fetching Data
+
+**Thoughts:** Today was project # 6 of Wes Bos JavaScript30. This one was a little more involved. I basically used the fetch api. I also took my time going line by line and understanding what each part is doing. There's a lot going on in this code that I don't understand 100%. I just started reading about Promises and how they work. There's some regular expression stuff here too. I get the gist of what the code is doing. When you type in the input field, it's grabbing the value, filtering and matching what's in the cities array, and finally adding it back to the dom by using some template literal syntax and adding a class of hl(highlight) the the added results. 
+
+**Link to works:** [Fetching Data](https://codepen.io/JayCruz/pen/gBrpgJ)
