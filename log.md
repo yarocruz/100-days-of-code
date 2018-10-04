@@ -246,3 +246,11 @@ This was also a very quick project to complete. After I was done I started watch
 **Thoughts:** Today was project # 6 of Wes Bos JavaScript30. This one was a little more involved. I basically used the fetch api. I also took my time going line by line and understanding what each part is doing. There's a lot going on in this code that I don't understand 100%. I just started reading about Promises and how they work. There's some regular expression stuff here too. I get the gist of what the code is doing. When you type in the input field, it's grabbing the value, filtering and matching what's in the cities array, and finally adding it back to the dom by using some template literal syntax and adding a class of hl(highlight) the the added results. 
 
 **Link to works:** [Fetching Data](https://codepen.io/JayCruz/pen/gBrpgJ)
+
+### Day 30 Oct 4, 2018 
+
+**Today's Progress**: Array Cardio Day 2
+
+**Thoughts:** Day 7 of the Wes Bos JS30 course. Woke up early to get my hour done. Learned how to use more array methods like .some, .every, .find, and .indexOf. This was a little easier to understand. This was a short one, so I was done like in half an hour. After that I started the new revamped [Treehouse course React Basics](https://teamtreehouse.com/library/react-basics-2). 
+
+**Link to works:** [Array Cardio](https://codepen.io/JayCruz/pen/ZqWRPX)
