@@ -254,3 +254,15 @@ This was also a very quick project to complete. After I was done I started watch
 **Thoughts:** Day 7 of the Wes Bos JS30 course. Woke up early to get my hour done. Learned how to use more array methods like .some, .every, .find, and .indexOf. This was a little easier to understand. This was a short one, so I was done like in half an hour. After that I started the new revamped [Treehouse course React Basics](https://teamtreehouse.com/library/react-basics-2). 
 
 **Link to works:** [Array Cardio](https://codepen.io/JayCruz/pen/ZqWRPX)
+
+### Day 31 Oct 5, 2018 
+
+**Today's Progress**: HTML Canvas
+
+**Thoughts:** Day 8 of Wes Bos's JavaScript30. This has been one of the coolest projects so far. There's also a whole lot here to further dig into. I'm guessing an HTML canvas element has an "API" that you interact with. The key to understanding how this is all working is by understanding how the **mousemove**, **mouseup**, and **moseout**. This is what is listening to mouse. 
+
+After I was done with this one I spend perhaps the last 15 minutes on the Treehouse React Basics course. I'm going all the way back to the fundamentals and seeing how react works without JSX and Babel. I discovered today that Babel won't let you load up a locally, so I also finally figured out how to us http-server. Now I'm beggining to see how awesome and crucial create-react-app is. 
+
+**Link to works:** [HTML Canvas](https://codepen.io/JayCruz/pen/aRmmdr)
+
+
