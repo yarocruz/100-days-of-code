@@ -265,4 +265,12 @@ After I was done with this one I spend perhaps the last 15 minutes on the Treeho
 
 **Link to works:** [HTML Canvas](https://codepen.io/JayCruz/pen/aRmmdr)
 
+### Day 32 Oct 6, 2018 
+
+**Today's Progress**: Console Methods
+
+**Thoughts:** Day 9 of Wes Bos JS30 course. It was a short and sweet one. This one was all about the different console methods. There's console.warn, theres console.error, console.info, console.assert, console.dir, console.time, and a couple more. After that I watched a bit more of the React Basics course. Getting a refresher in components. 
+
+**Link to works:** [Console Methods](https://codepen.io/JayCruz/pen/QZKZZL)
+
 
