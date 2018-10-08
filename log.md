@@ -281,4 +281,12 @@ After I was done with this one I spend perhaps the last 15 minutes on the Treeho
 
 **Link to works:** [The Art of Multi Checkboxing](https://codepen.io/JayCruz/pen/wYozoJ)
 
+### Day 34: Oct 8, 2018 
+
+**Today's Progress**: Day 11 of JS30
+
+**Thoughts:** This was one of the longest projects from the Wes Bos course. This was all about how to create the functionality of a video with JS. There's some dom selection and a lot of event listeners. There's some ternarys. I always forget that querySelector only selects the first item and querySelectorAll, well, selects all of them. 
+
+**Link to works:** [Custom Video Player](https://codepen.io/JayCruz/pen/dgNpaP)
+
 
