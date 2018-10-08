@@ -239,7 +239,7 @@ This was also a very quick project to complete. After I was done I started watch
 
 **Link to works:** [Flex Panels](https://codepen.io/JayCruz/pen/zmvVvb)
 
-### Day 29 Oct 3, 2018 
+### Day 29: Oct 3, 2018 
 
 **Today's Progress**: Fetching Data
 
@@ -247,7 +247,7 @@ This was also a very quick project to complete. After I was done I started watch
 
 **Link to works:** [Fetching Data](https://codepen.io/JayCruz/pen/gBrpgJ)
 
-### Day 30 Oct 4, 2018 
+### Day 30: Oct 4, 2018 
 
 **Today's Progress**: Array Cardio Day 2
 
@@ -255,7 +255,7 @@ This was also a very quick project to complete. After I was done I started watch
 
 **Link to works:** [Array Cardio](https://codepen.io/JayCruz/pen/ZqWRPX)
 
-### Day 31 Oct 5, 2018 
+### Day 31: Oct 5, 2018 
 
 **Today's Progress**: HTML Canvas
 
@@ -265,12 +265,20 @@ After I was done with this one I spend perhaps the last 15 minutes on the Treeho
 
 **Link to works:** [HTML Canvas](https://codepen.io/JayCruz/pen/aRmmdr)
 
-### Day 32 Oct 6, 2018 
+### Day 32: Oct 6, 2018 
 
 **Today's Progress**: Console Methods
 
 **Thoughts:** Day 9 of Wes Bos JS30 course. It was a short and sweet one. This one was all about the different console methods. There's console.warn, theres console.error, console.info, console.assert, console.dir, console.time, and a couple more. After that I watched a bit more of the React Basics course. Getting a refresher in components. 
 
 **Link to works:** [Console Methods](https://codepen.io/JayCruz/pen/QZKZZL)
+
+### Day 33: Oct 7, 2018 
+
+**Today's Progress**: Day 10 of JS30 and React Components and their props.
+
+**Thoughts:** Checking multiple checkboxes. The logic for this one is not as easy to wrap my head around it. There's a handler, which is listening for a click and if the shift key is pressed. There is some value flipping. It's only 30 lines long, but it's pretty complex. It's also pretty beautiful.
+
+**Link to works:** [The Art of Multi Checkboxing](https://codepen.io/JayCruz/pen/wYozoJ)
 
 
