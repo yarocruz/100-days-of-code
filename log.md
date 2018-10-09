@@ -289,4 +289,12 @@ After I was done with this one I spend perhaps the last 15 minutes on the Treeho
 
 **Link to works:** [Custom Video Player](https://codepen.io/JayCruz/pen/dgNpaP)
 
+### Day 35: Oct 9, 2018 
+
+**Today's Progress**: Day 12 of JS30 Key Sequence Detection
+
+**Thoughts:** This was a short and sweet excercise. Just 13 lines of code. Starts out by creating two const. One of them is the secret code. It adds an event listener on the window object and listens to the "keyup' even, which literally is listening for every key that is pressed. After I was done with the Wes Bos exercise, I did a bit of the React basics course. I'm at the part where it starts explaining state and class components. I'm almost done with this course. 
+
+**Link to works:** [Type in the Secret Code](https://codepen.io/JayCruz/pen/WapNOq)
+
 
