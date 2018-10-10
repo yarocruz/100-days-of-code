@@ -297,4 +297,12 @@ After I was done with this one I spend perhaps the last 15 minutes on the Treeho
 
 **Link to works:** [Type in the Secret Code](https://codepen.io/JayCruz/pen/WapNOq)
 
+### Day 36: Oct 10, 2018 
+
+**Today's Progress**: Day 13 of JS30 Sliding on Scroll
+
+**Thoughts:** Today was a little different. I split my hour in two. In the morning I finished the React Basics tutorial. I did 30 minutes. Then after work I did my JS30 excercise. After playing with React for a bit, and then getting introduced to Vue, I think I'm gonna use Vue more. React for now seems too complex for the type of Front End I see myself doing. I think Vue should be to me. I like em both tho. The JS30 exercise was interesting. I'm not a fan of things moving in on scroll, or crazy parallax and that sort of thing, but I learned about the scroll even. I also got introduced to "debouncing" scroll events. 
+
+**Link to works:** [Sliding on Scroll](https://codepen.io/JayCruz/pen/rqmJGq)
+
 
