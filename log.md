@@ -305,4 +305,14 @@ After I was done with this one I spend perhaps the last 15 minutes on the Treeho
 
 **Link to works:** [Sliding on Scroll](https://codepen.io/JayCruz/pen/rqmJGq)
 
+### Day 37: Oct 11, 2018 
+
+**Today's Progress**: Day 14 of JS30 and React Components
+
+**Thoughts:** Todays Wes Bos exercise was interesting. It's funny because before I started with coding session, I was reflecting on what I have learned so far, what has stuck, and what I need to study a bit more deeply. I'm getting to a point where I'm starting to notice that I'm indeed getting more fluent, but there are still some things that haven't completely sunk in. The Wes Bes exercise was all about understanding the differences between a reference and a copy when it comes to bindings that reference one another. With strings and numbers, we can say let age = 100; then let age2 = age; Both have the same value of 100, but if we update say age = 200. age2 will stay at 100. The same rule applies to strings and booleans. With arrays and Objects is a bit different. With these 2 we would have to make actual copies using methods like .slice() and Object.assign. It was a really cool and a taking a step back exercise. 
+
+After I was done with this exercise, I started the React Components course on Treehouse. This another one of the revamped React courses. The import and exporting of modules is just a like crazy, but I suppose it's useful. 
+
+**Link to works:** [Reference vs Copy](https://codepen.io/JayCruz/pen/ZqyKwM)
+
 
