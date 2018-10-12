@@ -315,4 +315,12 @@ After I was done with this exercise, I started the React Components course on Tr
 
 **Link to works:** [Reference vs Copy](https://codepen.io/JayCruz/pen/ZqyKwM)
 
+### Day 38: Oct 12, 2018 
+
+**Today's Progress**: Day 15 of JS30
+
+**Thoughts:** Today was only Wes Bos exercises. This was about locasStorage. There's some complexity here that I could dig more into. There things you have go around in terms of event delegation for the items that aren't created and the ones that are created. So I didn't fully understand how the clicks on the checkboxes are staying persisten. But I was a really interesting project that's taking me a little bit outside my comfort zone. At the end I have a typo, and it took some time to find the bug, but I'm getting way better at figuring where errors come from. 
+
+**Link to works:** [Local Storage and Event Delegation](https://codepen.io/JayCruz/pen/WaEKBg)
+
 
