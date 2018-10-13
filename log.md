@@ -323,4 +323,12 @@ After I was done with this exercise, I started the React Components course on Tr
 
 **Link to works:** [Local Storage and Event Delegation](https://codepen.io/JayCruz/pen/WaEKBg)
 
+### Day 39: Oct 13, 2018 
+
+**Today's Progress**: Day 16 of JS30 and back to React Components
+
+**Thoughts:** Today was about updating a CSS text shadow effect on mousemove. There was some math. There is some destructuring, which I'm finally getting. It's pretty simple. Basically it's a way to be able to assign multiple values using one line. After finishing this one, I started with the Treehouse React Components course. 
+
+**Link to works:** [CSS Text Shadows](https://codepen.io/JayCruz/pen/PyJzjW)
+
 
