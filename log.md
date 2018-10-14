@@ -337,6 +337,6 @@ After I was done with this exercise, I started the React Components course on Tr
 
 **Thoughts:** Today I sorted an array of band names. It sorts the bands in alphabetical order, but it discards the ones with the articld "The", "An", or "A". To do that you use a regex. To sort you use the .sort. Still not exactly sure what's going on in the sort function using that a and b variables. It checks if a > b and it will return 1 if true and -1 if false. I think the trick there is how arrays arrange items. If I'm not mistaken, the last item in the array is at postion -1. Not sure really how this works. This was a really short exercise. After I was done, I did some more of the Treehouse React course. Pretty sweet day.
 
-**Link to works:** [Sorting Band Names without Articles](https://codepen.io/JayCruz/pen/LgzXbo 
+**Link to works:** [Sorting Band Names without Articles](https://codepen.io/JayCruz/pen/LgzXbo) 
 
 
