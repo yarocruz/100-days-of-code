@@ -339,4 +339,12 @@ After I was done with this exercise, I started the React Components course on Tr
 
 **Link to works:** [Sorting Band Names without Articles](https://codepen.io/JayCruz/pen/LgzXbo) 
 
+### Day 41: Oct 15, 2018 
+
+**Today's Progress**: Day 18 of JS30 and React Components
+
+**Thoughts:** Another short and "sort of" simple one. One important thing. A Nodelist is not the same as an array. So you would have to use Array.from to put the node list in an array, and then you can use array methods on it like .map, .reduce, et al. The whole ide with this one is grabbing the data-time attribute, which contains a string defining the minutes and seconds of how long the videos are, and then adding them all up by using reduce. Another thing I learned finally is the modulo % and what it does exactly. Math man. After I was done with this one, I did some more React. React can be pretty amazing when you understand what's going on, but it seems too complex for me for now for the day to day things I see myself doing as a Web Designer. I do want to keep giving it a shot. 
+
+**Link to works:** [Tally String Times with Reduce](https://codepen.io/JayCruz/pen/NOwozK) 
+
 
