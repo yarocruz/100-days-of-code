@@ -347,4 +347,12 @@ After I was done with this exercise, I started the React Components course on Tr
 
 **Link to works:** [Tally String Times with Reduce](https://codepen.io/JayCruz/pen/NOwozK) 
 
+### Day 42: Oct 16, 2018 
+
+**Today's Progress**: Day 19 of JS30
+
+**Thoughts:** This one was a long one. I worked on it this morning and I didn't even finish it. I still have 5 minutes to go. There's a lot to unpack in this one. You use the navigator.mediaDevices and I guess this is the thing that starts of the webcam. It's a super cool, but super complex stuff to understand. 
+
+**Link to works:** [Unreal Webcam Fun](https://codepen.io/JayCruz/pen/gBoVMw) 
+
 
