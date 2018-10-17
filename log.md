@@ -355,4 +355,14 @@ After I was done with this exercise, I started the React Components course on Tr
 
 **Link to works:** [Unreal Webcam Fun](https://codepen.io/JayCruz/pen/gBoVMw) 
 
+### Day 43: Oct 17, 2018 
+
+**Today's Progress**: Day 20 of JS30
+
+**Thoughts:** Today I made a speech recognition app!. This was super cool. The code is not super difficult to understand. All you do is add the window.SpeechRecognition. You add an event listeners that listens to "results". The speech reconigtion works by using your microphone of course. After this I did some more React. I'm pretty much done with the React course. Hoping on finishing it off tonight. Last thing I learned about Pure Components and PropTypes.
+
+**Link to works:** [Native Speech Recognition](https://codepen.io/JayCruz/pen/QZQqdz) 
+
+
+
 
