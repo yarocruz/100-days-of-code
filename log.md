@@ -363,6 +363,14 @@ After I was done with this exercise, I started the React Components course on Tr
 
 **Link to works:** [Native Speech Recognition](https://codepen.io/JayCruz/pen/QZQqdz) 
 
+### Day 44: Oct 18, 2018 
+
+**Today's Progress**: Day 21 of JS30. Starting learning more about Gulp
+
+**Thoughts:** This one was a rather short one. The JS30 exercise was all about location data, and it's something that only really work on your phone so you can't see the results. The only way you can test this without deploying is by download Xcode and using the iOS simulator, but I couldn't because I don't have the latest version of Mac OS to be able to install Xcode. Since I already finished with the React courses. I started the [Gulp Basics One](https://teamtreehouse.com/library/gulp-basics). 
+
+**Link to works:** [Geolocation](https://codepen.io/JayCruz/pen/pxLYQb) 
+
 
 
 
