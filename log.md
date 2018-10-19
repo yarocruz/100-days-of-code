@@ -371,6 +371,14 @@ After I was done with this exercise, I started the React Components course on Tr
 
 **Link to works:** [Geolocation](https://codepen.io/JayCruz/pen/pxLYQb) 
 
+### Day 45: Oct 19, 2018 
+
+**Today's Progress**: Day 22 of JS30. More Gulp
+
+**Thoughts:** Learn a really cool effect that follows links on hover. After finishing with the exercise watched some more Gulp basics on Treehouse. I'm super beat today.
+
+**Link to works:** [Follow Along Links](https://codepen.io/JayCruz/pen/ZqRQvJ) 
+
 
 
 
