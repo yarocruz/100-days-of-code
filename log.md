@@ -379,6 +379,14 @@ After I was done with this exercise, I started the React Components course on Tr
 
 **Link to works:** [Follow Along Links](https://codepen.io/JayCruz/pen/ZqRQvJ) 
 
+### Day 46: Oct 20, 2018 
+
+**Today's Progress**: Day 23 of JS30. More Gulp
+
+**Thoughts:** This exercise for day 23 of the the JS30 course is super hella fun. The thing that's making the magin happen is the [SpeechSynthesisUtterance()](https://developer.mozilla.org/en-US/docs/Web/API/SpeechSynthesisUtterance) method. Once you get that going it's all a matter of adding the .speak method and giving the arg a text value. Sort of a short one, but paused through this one a lot because I really enjoyed it. After that I some more Gulp videos. Gulp so far seems interesting and a time saver, but my projects aren't that big, at least not yet. 
+
+**Link to works:** [The Voiceinator 5000](https://codepen.io/JayCruz/pen/OBEzJq) 
+
 
 
 
