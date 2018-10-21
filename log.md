@@ -387,6 +387,14 @@ After I was done with this exercise, I started the React Components course on Tr
 
 **Link to works:** [The Voiceinator 5000](https://codepen.io/JayCruz/pen/OBEzJq) 
 
+### Day 47: Oct 21, 2018 
+
+**Today's Progress**: Day 24 of JS30. More Gulp
+
+**Thoughts:** Made a sticky nav that gets display style of fixed once it's scrolled to the top. It works by using thew window.scrollY and the offsets. Nothing too fancy. Pretty cool. I'm almost done with the Gulp course. I'm super beat today.
+
+**Link to works:** [Sticky Nav](https://codepen.io/JayCruz/pen/gBjrmP) 
+
 
 
 
