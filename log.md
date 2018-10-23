@@ -395,6 +395,12 @@ After I was done with this exercise, I started the React Components course on Tr
 
 **Link to works:** [Sticky Nav](https://codepen.io/JayCruz/pen/gBjrmP) 
 
+### Day 48: Oct 22, 2018 
 
+**Today's Progress**: Day 25 of JS30. Finished the Gulp Course
 
+**Thoughts:** Exercise 25 of the Wes Bos course was more about teaching the concept of event bubbling and event delegation. Super short and sweet one. I finished the Gulp course. I'll probably look more into Gulp later on. 
 
+I feel like I have reached a plateu. I still don't understand how reduce works. 
+
+**Link to works:** [Event Bubbling and Delegation](https://codepen.io/JayCruz/pen/aRaJQy) 
