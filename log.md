@@ -404,3 +404,13 @@ After I was done with this exercise, I started the React Components course on Tr
 I feel like I have reached a plateu. I still don't understand how reduce works. 
 
 **Link to works:** [Event Bubbling and Delegation](https://codepen.io/JayCruz/pen/aRaJQy) 
+
+### Day 49: Oct 23, 2018 
+
+**Today's Progress**: Day 26 of JS30. Started a Node JS Course on Treehouse
+
+**Thoughts:** Exercise 26 of the Wes Bos course is super cool technique to to show dropdown menus. It's based on the Stripe [website](https://stripe.com/). There's a particular method that's key and it's called getBoundingClientRect(). That's what makes the background of the dropdowns have a different width and height according to the size of the content in it. It's pretty cool. 
+
+After finishing I started a Node JS course that teaches you how to build a dynamic website.
+
+**Link to works:** [Stripe Style follow Along Dropdown Navigation](https://codepen.io/JayCruz/pen/OBBzpZ) 
