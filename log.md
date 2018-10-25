@@ -414,3 +414,11 @@ I feel like I have reached a plateu. I still don't understand how reduce works.
 After finishing I started a Node JS course that teaches you how to build a dynamic website.
 
 **Link to works:** [Stripe Style follow Along Dropdown Navigation](https://codepen.io/JayCruz/pen/OBBzpZ) 
+
+### Day 50: Oct 24, 2018 
+
+**Today's Progress**: Day 27 of JS30 and Node JS Course on Treehouse
+
+**Thoughts:** This was a neat one. I learned how to scroll by dragging with the mouse. Key methods: pageX, offsetLeft. Events: mouseleave, mouseup, mousemove. After I was done I saw some more videos on Node. 
+
+**Link to works:** [Click and Drag to Scroll](https://codepen.io/JayCruz/pen/QZJVaZ)
