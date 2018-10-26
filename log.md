@@ -422,3 +422,12 @@ After finishing I started a Node JS course that teaches you how to build a dynam
 **Thoughts:** This was a neat one. I learned how to scroll by dragging with the mouse. Key methods: pageX, offsetLeft. Events: mouseleave, mouseup, mousemove. After I was done I saw some more videos on Node. 
 
 **Link to works:** [Click and Drag to Scroll](https://codepen.io/JayCruz/pen/QZJVaZ)
+
+
+### Day 51: Oct 25, 2018 
+
+**Today's Progress**: Day 28 of JS30 and Node JS Course on Treehouse
+
+**Thoughts:** Short and sweet exercise. Just two more days and I'm done with the Wes Bos course. This was a revisit to the video player control one. It's a really cool effect. Watch some more Node vids. Node.js is so backend. It's interesting, but it's hard for me to get excited about.
+
+**Link to works:** [Video Speed Controller UI](https://codepen.io/JayCruz/pen/GYPLGm)
