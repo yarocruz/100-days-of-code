@@ -431,3 +431,11 @@ After finishing I started a Node JS course that teaches you how to build a dynam
 **Thoughts:** Short and sweet exercise. Just two more days and I'm done with the Wes Bos course. This was a revisit to the video player control one. It's a really cool effect. Watch some more Node vids. Node.js is so backend. It's interesting, but it's hard for me to get excited about.
 
 **Link to works:** [Video Speed Controller UI](https://codepen.io/JayCruz/pen/GYPLGm)
+
+### Day 52: Oct 26, 2018 
+
+**Today's Progress**: Day 29 of JS30 and Node JS Course on Treehouse
+
+**Thoughts:** One more day and I'm done with Wes Bos 30 days 30 projects course. This one was really cool. It's complex, but since I have attempted similar projects for keep tracking of time and making countdowns, this wasn't as harder than other projects. There's the setInterval function and the Date object with it's methods. The node js course has been sort of a drag to be honest. But I've also just been passively watching it. But I'm still super interested in learning at least the basics.
+
+**Link to works:** [Countdown Clock](https://codepen.io/JayCruz/pen/JmxmwN)
