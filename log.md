@@ -439,3 +439,13 @@ After finishing I started a Node JS course that teaches you how to build a dynam
 **Thoughts:** One more day and I'm done with Wes Bos 30 days 30 projects course. This one was really cool. It's complex, but since I have attempted similar projects for keep tracking of time and making countdowns, this wasn't as harder than other projects. There's the setInterval function and the Date object with it's methods. The node js course has been sort of a drag to be honest. But I've also just been passively watching it. But I'm still super interested in learning at least the basics.
 
 **Link to works:** [Countdown Clock](https://codepen.io/JayCruz/pen/JmxmwN)
+
+### Day 53: Oct 27, 2018 
+
+**Today's Progress**: Day 30 / Last Day of JS30 and Node JS Course on Treehouse
+
+**Thoughts:** Finished Wes Bos 30 JS Project. This was definitely one of the coolest courses I have taken. The last project was a game. A Whack-A-Mole Game. The setTimeout is key in this one. There were some Math.randoms and .rounds, and .floor. These were used so we don't get the same Otters? going up.
+
+I'm almost done watching the Node Js videos. I'll probably finish watching them tonight. 
+
+**Link to works:** [Whack-A-Mole!](https://codepen.io/JayCruz/pen/rqRzmK)
