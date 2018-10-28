@@ -444,8 +444,18 @@ After finishing I started a Node JS course that teaches you how to build a dynam
 
 **Today's Progress**: Day 30 / Last Day of JS30 and Node JS Course on Treehouse
 
-**Thoughts:** Finished Wes Bos 30 JS Project. This was definitely one of the coolest courses I have taken. The last project was a game. A Whack-A-Mole Game. The setTimeout is key in this one. There were some Math.randoms and .rounds, and .floor. These were used so we don't get the same Otters? going up.
+**Thoughts:** Finished Wes Bos 30 JS Project. This was definitely one of the coolest courses I have taken. The last project was a game. A Whack-A-Mole Game. The setTimeout is key in this one. There were some Math.randoms and .rounds, and .floor. These were used so we don't get the same Moles going up.
 
 I'm almost done watching the Node Js videos. I'll probably finish watching them tonight. 
 
 **Link to works:** [Whack-A-Mole!](https://codepen.io/JayCruz/pen/rqRzmK)
+
+### Day 54: Oct 28, 2018 
+
+**Today's Progress**: Rethinking how I practice...
+
+**Thoughts:** Today I didn't do any tutorials, nor watch any videos. Decided to take a step back and sort of figure out where I'm at. I've been thinking of giving myself a big project. One of those projects is redesigning my Portfolio. I want my Portfolio to reflect what my skills are at the moment which are Front End Development and Web Design. 
+
+I did do some coding. I want to see if I can come up with simple projects like the ones on the JS30 tutorial. Things that I can complete in at least 1 hour. I made a very barebones shopping cart web app. It's mostly listening to clicks and adding those clicks to a variable to keep track of them, and then showing them on the page by way of plugging that variable to the elements .textContent. I'm pretty sure I have leveled up my JS skills since I started this challenge. The only thing I looked up was CSS Grid, since I've gotten rusty with that. But in terms of the 13 lines of code that I wrote, I understand every single line that I wrote.  
+
+**Link to works:** [Barebones Shopping Cart](https://codepen.io/JayCruz/pen/vVPbQJ)
