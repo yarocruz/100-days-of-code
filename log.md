@@ -459,3 +459,11 @@ I'm almost done watching the Node Js videos. I'll probably finish watching them 
 I did do some coding. I want to see if I can come up with simple projects like the ones on the JS30 tutorial. Things that I can complete in at least 1 hour. I made a very barebones shopping cart web app. It's mostly listening to clicks and adding those clicks to a variable to keep track of them, and then showing them on the page by way of plugging that variable to the elements .textContent. I'm pretty sure I have leveled up my JS skills since I started this challenge. The only thing I looked up was CSS Grid, since I've gotten rusty with that. But in terms of the 13 lines of code that I wrote, I understand every single line that I wrote.  
 
 **Link to works:** [Barebones Shopping Cart](https://codepen.io/JayCruz/pen/vVPbQJ)
+
+### Day 55: Oct 29, 2018 
+
+**Today's Progress**: Rethinking how I practice...
+
+**Thoughts:** Today was another day were I didn't have a concrete exercise or project in mind. They only thing I could think of is going back to trying to make a mobile nav menu a la bootstrap. If there's anything I'm realizing after all this is that I'm super rusty with CSS. A least when it comes to layout and aligning things. 
+
+**Link to works:** [How does a Navbar Work?](https://codepen.io/JayCruz/pen/aRxMGJ)
