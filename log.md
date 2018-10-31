@@ -467,3 +467,11 @@ I did do some coding. I want to see if I can come up with simple projects like t
 **Thoughts:** Today was another day were I didn't have a concrete exercise or project in mind. They only thing I could think of is going back to trying to make a mobile nav menu a la bootstrap. If there's anything I'm realizing after all this is that I'm super rusty with CSS. A least when it comes to layout and aligning things. 
 
 **Link to works:** [How does a Navbar Work?](https://codepen.io/JayCruz/pen/aRxMGJ)
+
+### Day 56: Oct 30, 2018 
+
+**Today's Progress**: Practiced Fundamentals
+
+**Thoughts:** Didn't have anything planned today, so I just watched some short vids on Treehouse. They were mostly practice exercises. Did a 9 min one on Template literals. I have a really good grasp on this. Goodbye string concatenation, hello Template Literals with String Interpolation. It's beautiful. I also watched one on Closures. This was a longer one, clocking a bit over the 20 min mark. This is an important concept in JS, and probably why we now have three ways to assing variables. I did end up writing one of the dumbest app in the universe tho because I just wanted to write a few lines.
+
+**Link to works:** [DOMB Manipulation](https://codepen.io/JayCruz/pen/bmPEaG)
