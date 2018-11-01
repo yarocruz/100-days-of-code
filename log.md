@@ -475,3 +475,11 @@ I did do some coding. I want to see if I can come up with simple projects like t
 **Thoughts:** Didn't have anything planned today, so I just watched some short vids on Treehouse. They were mostly practice exercises. Did a 9 min one on Template literals. I have a really good grasp on this. Goodbye string concatenation, hello Template Literals with String Interpolation. It's beautiful. I also watched one on Closures. This was a longer one, clocking a bit over the 20 min mark. This is an important concept in JS, and probably why we now have three ways to assing variables. I did end up writing one of the dumbest app in the universe tho because I just wanted to write a few lines.
 
 **Link to works:** [DOMB Manipulation](https://codepen.io/JayCruz/pen/bmPEaG)
+
+### Day 57: Oct 31, 2018 
+
+**Today's Progress**: Practiced Fundamentals
+
+**Thoughts:** Another day of short workshop videos on Treehouse. I went through a couple of them. One was on conditionals. The basic if/else, the switch with case and breaks, and the ternary one, one of my favorites. It also explained how to use operands like && and || to do quick evaluations, or "short circuit" them. The other video I saw was on strict mode, and what the "use strict"; is all about. I'm using this from now on. 
+
+**Link to works:** No links today.
