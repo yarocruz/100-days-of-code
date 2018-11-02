@@ -483,3 +483,11 @@ I did do some coding. I want to see if I can come up with simple projects like t
 **Thoughts:** Another day of short workshop videos on Treehouse. I went through a couple of them. One was on conditionals. The basic if/else, the switch with case and breaks, and the ternary one, one of my favorites. It also explained how to use operands like && and || to do quick evaluations, or "short circuit" them. The other video I saw was on strict mode, and what the "use strict"; is all about. I'm using this from now on. 
 
 **Link to works:** No links today.
+
+### Day 58: Nov 1, 2018 
+
+**Today's Progress**: Did Some Flexboxing
+
+**Thoughts:** Today I went through a short tutorial to practice some CSS Layout, specifically Flexbox. [Learn CSS Flexbox by building a photo card component](https://freshman.tech/flexbox/) I went through the exercise step by step, making sure I didn't just copy and pasted the code. I typed through almost every line except the svg stuff. One thing I'm learning is that you have to hand type the code line by line to really internalize it. Flexbox is pretty sweet. There's also some JavaScript in the there. Just click the heart icon. 
+
+**Link to works:** [Unplash Photo Card Component](https://codepen.io/JayCruz/pen/oQvLZN)
