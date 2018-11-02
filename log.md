@@ -491,3 +491,11 @@ I did do some coding. I want to see if I can come up with simple projects like t
 **Thoughts:** Today I went through a short tutorial to practice some CSS Layout, specifically Flexbox. [Learn CSS Flexbox by building a photo card component](https://freshman.tech/flexbox/) I went through the exercise step by step, making sure I didn't just copy and pasted the code. I typed through almost every line except the svg stuff. One thing I'm learning is that you have to hand type the code line by line to really internalize it. Flexbox is pretty sweet. There's also some JavaScript in the there. Just click the heart icon. 
 
 **Link to works:** [Unplash Photo Card Component](https://codepen.io/JayCruz/pen/oQvLZN)
+
+### Day 59: Nov 2, 2018 
+
+**Today's Progress**: Made a Simon Game
+
+**Thoughts:** Today I made a Simon Game with plain old Javascript. [This was a Free Code Camp tutorial](https://www.youtube.com/watch?time_continue=14&v=n_ec3eowFLQ). I spent over an hour on this one. Was following and typing along and understanding everything that's going in the code, but I think I started to get lost somewhere between the play() function and the gameTurn(). I know that's where the sequence gets created and they are pushed into the order array. It uses Math.floor and Math.random to generate them. A set Interval is also used. It's a 200 line code. I'll definitely be coming back to this one. It's easy enough to understand, but also has some challenging logic.
+
+**Link to works:** [Simon Game](https://codepen.io/JayCruz/pen/gQOYEY)
