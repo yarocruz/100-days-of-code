@@ -499,3 +499,11 @@ I did do some coding. I want to see if I can come up with simple projects like t
 **Thoughts:** Today I made a Simon Game with plain old Javascript. [This was a Free Code Camp tutorial](https://www.youtube.com/watch?time_continue=14&v=n_ec3eowFLQ). I spent over an hour on this one. Was following and typing along and understanding everything that's going in the code, but I think I started to get lost somewhere between the play() function and the gameTurn(). I know that's where the sequence gets created and they are pushed into the order array. It uses Math.floor and Math.random to generate them. A set Interval is also used. It's a 200 line code. I'll definitely be coming back to this one. It's easy enough to understand, but also has some challenging logic.
 
 **Link to works:** [Simon Game](https://codepen.io/JayCruz/pen/gQOYEY)
+
+### Day 60: Nov 3, 2018 
+
+**Today's Progress**: Came up with my own little thing
+
+**Thoughts:** So today I worked on trying to make my own thing happen. After an hour of tackling the problem, I couldn't figure how to accomplish it. The end goal here, is to show different title descriptions. I think I'm starting on the right path, but can figure out how to plug in the diferent strings in the title element. Here's the breakdown: I have an array of sentences and I want to loop and plug each sentence in a p element. I know the looping is happening. I tried with a forEach and even the for i loop, but it's only plugging in the last string in the array. 
+
+**Link to works:** [Looping through an array of Strings](https://codepen.io/JayCruz/pen/VVwVxZ)
