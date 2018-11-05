@@ -507,3 +507,11 @@ I did do some coding. I want to see if I can come up with simple projects like t
 **Thoughts:** So today I worked on trying to make my own thing happen. After an hour of tackling the problem, I couldn't figure how to accomplish it. The end goal here, is to show different title descriptions. I think I'm starting on the right path, but can figure out how to plug in the diferent strings in the title element. Here's the breakdown: I have an array of sentences and I want to loop and plug each sentence in a p element. I know the looping is happening. I tried with a forEach and even the for i loop, but it's only plugging in the last string in the array. 
 
 **Link to works:** [Looping through an array of Strings](https://codepen.io/JayCruz/pen/VVwVxZ)
+
+### Day 61: Nov 4, 2018 
+
+**Today's Progress**: Found a Solution
+
+**Thoughts:** I knew that I was on the right path yesterday when trying to "loop" through an array of strings and showing each one to a paragraph element. The solution wasn't a for loop though. The solution was in the if statement. I implemented this solution by following a super [short tutorial on creating a slideshow](https://www.youtube.com/watch?v=4YQ4svkETS0) The solution is still "looping" in a way, but it's conditionally looping, that way it will iterate though the array index and plug in the string.
+
+**Link to works:** [Looping through an array of Strings](https://codepen.io/JayCruz/pen/VVwVxZ)[Simple Slideshow](https://codepen.io/JayCruz/pen/OaPgVL)
