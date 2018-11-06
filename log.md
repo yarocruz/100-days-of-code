@@ -515,3 +515,11 @@ I did do some coding. I want to see if I can come up with simple projects like t
 **Thoughts:** I knew that I was on the right path yesterday when trying to "loop" through an array of strings and showing each one to a paragraph element. The solution wasn't a for loop though. The solution was in the if statement. I implemented this solution by following a super [short tutorial on creating a slideshow](https://www.youtube.com/watch?v=4YQ4svkETS0) The solution is still "looping" in a way, but it's conditionally looping, that way it will iterate though the array index and plug in the string.
 
 **Link to works:** [Looping through an array of Strings](https://codepen.io/JayCruz/pen/VVwVxZ)[Simple Slideshow](https://codepen.io/JayCruz/pen/OaPgVL)
+
+### Day 62: Nov 5, 2018 
+
+**Today's Progress**: Ad Hoc and Random Day
+
+**Thoughts:** Wasn't as structured today in what I wanted to tackle. I watched some videos first. It was a [Traversy Media video on ES6 Classes](https://www.youtube.com/watch?v=RBLIm5LMrmc). I highly recommend this guy's videos by the way. After finishing the video I just went through the motions and just started with some html and css. I'm getting a better handle on how to use Flexbox to make a nav bar. I ended adding an event listener to a button and making it create a paragraph element and adding it to the body. It's a pretty ridiculuos thing. 
+
+**Link to works:** [Ridonculous](https://codepen.io/JayCruz/pen/aQOwaK)
