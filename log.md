@@ -523,3 +523,14 @@ I did do some coding. I want to see if I can come up with simple projects like t
 **Thoughts:** Wasn't as structured today in what I wanted to tackle. I watched some videos first. It was a [Traversy Media video on ES6 Classes](https://www.youtube.com/watch?v=RBLIm5LMrmc). I highly recommend this guy's videos by the way. After finishing the video I just went through the motions and just started with some html and css. I'm getting a better handle on how to use Flexbox to make a nav bar. I ended adding an event listener to a button and making it create a paragraph element and adding it to the body. It's a pretty ridiculuos thing. 
 
 **Link to works:** [Ridonculous](https://codepen.io/JayCruz/pen/aQOwaK)
+
+### Day 63: Nov 6, 2018 
+
+**Today's Progress**: Study Day
+
+**Thoughts:** I have lost a bit of steam in terms of finding 1 hour coding exercises, or tutorials or ideas to code up that a least will keep me engaged for 1 hour. I also feel like I've reached the opposite of a plateu. Most of the projects, tutorials, or ideas I'm coming up with don't feel as challenging or interesting. I reached a level where I am comfortable with JavaScript in terms of dom manipulation and basic logic. I need a big project. Something that will keep me as engaged as the JS30 course. 
+
+Not that I didn't code today, but it was mostly html and css. I just made some notes on some concepts. I went through a couple of [Travis McGinnis videos on ES6 concepts](https://www.youtube.com/watch?v=6vBYfLCE9-Q&list=PLqrUy7kON1meLrM6e7WW02jJ8QongnT7Z) I made some short notes on the html document. I finally have a better grasp on desctructuring and what that's all about. 
+
+
+**Link to works:** [Modern JavaScript Stuff](https://codepen.io/JayCruz/pen/WYQNBG)
