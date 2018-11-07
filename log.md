@@ -530,7 +530,16 @@ I did do some coding. I want to see if I can come up with simple projects like t
 
 **Thoughts:** I have lost a bit of steam in terms of finding 1 hour coding exercises, or tutorials or ideas to code up that a least will keep me engaged for 1 hour. I also feel like I've reached the opposite of a plateu. Most of the projects, tutorials, or ideas I'm coming up with don't feel as challenging or interesting. I reached a level where I am comfortable with JavaScript in terms of dom manipulation and basic logic. I need a big project. Something that will keep me as engaged as the JS30 course. 
 
-Not that I didn't code today, but it was mostly html and css. I just made some notes on some concepts. I went through a couple of [Travis McGinnis videos on ES6 concepts](https://www.youtube.com/watch?v=6vBYfLCE9-Q&list=PLqrUy7kON1meLrM6e7WW02jJ8QongnT7Z) I made some short notes on the html document. I finally have a better grasp on desctructuring and what that's all about. 
-
+Not that I didn't code today, but it was mostly html and css. I just made some notes on some concepts. I went through a couple of [Travis McGinnis videos on ES6 concepts](https://www.youtube.com/watch?v=6vBYfLCE9-Q&list=PLqrUy7kON1meLrM6e7WW02jJ8QongnT7Z) I made some short notes on the html document. I finally have a better grasp on desctructuring and what that's all about.
 
 **Link to works:** [Modern JavaScript Stuff](https://codepen.io/JayCruz/pen/WYQNBG)
+
+## Day 64: Nov 7, 2018 
+
+**Today's Progress**: Worked with Forms
+
+**Thoughts:** Today I went through [John Ducket's JavaScript and jQuery](https://www.amazon.com/JavaScript-JQuery-Interactive-Front-End-Development/dp/1118531647/ref=sr_1_2?ie=UTF8&qid=1541614215&sr=8-2&keywords=javascript+and+jquery+jon+duckett) book. It's an old book and it's falling apart, but I keep coming back to it because it's such a great book. I have never finished reading this book completely, so I've been grabing it ocassionally and just browsing through chapters. I started from the last chapter, which is on Form enhancement and validation, and did some of the examples. It's interesting to see how now I can understand a lot of what's going on just by looking at code. The helper function was super cool and interesting. I'm beginning to see the reason behind libraries and frameworks. 
+
+**Note:** IIFE's( Immediately Invoked Function Expressions ) are really awkward to write.
+
+**Link to works:** [Form Ehancement and Validation](https://codepen.io/JayCruz/pen/zMrZNW)
