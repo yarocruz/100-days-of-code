@@ -543,3 +543,11 @@ Not that I didn't code today, but it was mostly html and css. I just made some n
 **Note:** IIFE's( Immediately Invoked Function Expressions ) are really awkward to write.
 
 **Link to works:** [Form Ehancement and Validation](https://codepen.io/JayCruz/pen/zMrZNW)
+
+## Day 65: Nov 8, 2018 
+
+**Today's Progress**: Paint your Own Mondrian
+
+**Thoughts:** In my search for project ideas, I stumbled upon [Jennifer Dewalt's 180 sites in 180 days](https://jenniferdewalt.com/) I remember finding her site a couple of years ago, and thinking of doing something like that. One that caught my attention was [her paint a Mondrian site](https://jenniferdewalt.com/mondrian.html). I peaked at the code a bit to have an idea how she accomplished this. She used jQuery to grab the background-color value and then plug it in to the blocks. I used plain JavaScript. It took me some time to find the getComputeStyles method, but I think it took me more time to make the whole Mondrain grid with css grid. I took some ideas from [Jen Simmons Responsive Mondrian CSS Grid Demo](https://www.youtube.com/watch?v=qNtJ5p3h2A4) and modeled the grid from an [actual Mondrian painting](https://www.google.com/search?tbm=isch&q=mondrian&chips=q:mondrian,g_1:original:ugTr9mDd-Gc%3D&usg=AI4_-kTktW9fAD4GJSDD5gWGtSiXOpJ6Xw&sa=X&ved=0ahUKEwipoPPP_sTeAhWlz4MKHbZ4BlUQ4lYIPCgH&biw=1439&bih=763&dpr=2#imgrc=CMBeh2KaB5QySM:). 
+
+**Link to works:** [Paint Your Own Mondrain](https://codepen.io/JayCruz/pen/jQqYZM)
