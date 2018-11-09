@@ -551,3 +551,11 @@ Not that I didn't code today, but it was mostly html and css. I just made some n
 **Thoughts:** In my search for project ideas, I stumbled upon [Jennifer Dewalt's 180 sites in 180 days](https://jenniferdewalt.com/) I remember finding her site a couple of years ago, and thinking of doing something like that. One that caught my attention was [her paint a Mondrian site](https://jenniferdewalt.com/mondrian.html). I peaked at the code a bit to have an idea how she accomplished this. She used jQuery to grab the background-color value and then plug it in to the blocks. I used plain JavaScript. It took me some time to find the getComputeStyles method, but I think it took me more time to make the whole Mondrain grid with css grid. I took some ideas from [Jen Simmons Responsive Mondrian CSS Grid Demo](https://www.youtube.com/watch?v=qNtJ5p3h2A4) and modeled the grid from an [actual Mondrian painting](https://www.google.com/search?tbm=isch&q=mondrian&chips=q:mondrian,g_1:original:ugTr9mDd-Gc%3D&usg=AI4_-kTktW9fAD4GJSDD5gWGtSiXOpJ6Xw&sa=X&ved=0ahUKEwipoPPP_sTeAhWlz4MKHbZ4BlUQ4lYIPCgH&biw=1439&bih=763&dpr=2#imgrc=CMBeh2KaB5QySM:). 
 
 **Link to works:** [Paint Your Own Mondrian](https://codepen.io/JayCruz/pen/jQqYZM)
+
+### Day 66: Nov 9, 2018 
+
+**Today's Progress**: Back at playing with React / Another Todo App
+
+**Thoughts:** I did about two hours today. Mostly been watching videos all day on React. I've been under the weather so I've been slow. I first attempted a tutorial on YouTube that teaches you how to make a lorem ipsum text generator, but I kept getting CORS errors. Then I did a short one that teaches how to do a todo app. I really want to keep at just plain JavaScript, but React just keeps popping up. There's something kinda messy with they way it works, but there's also something interesting. 
+
+**Link to works:** [Another Todo List](https://codepen.io/JayCruz/pen/mQEpqa)
