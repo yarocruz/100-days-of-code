@@ -559,3 +559,11 @@ Not that I didn't code today, but it was mostly html and css. I just made some n
 **Thoughts:** I did about two hours today. Mostly been watching videos all day on React. I've been under the weather so I've been slow. I first attempted a tutorial on YouTube that teaches you how to make a lorem ipsum text generator, but I kept getting CORS errors. Then I did a short one that teaches how to do a todo app. I really want to keep at just plain JavaScript, but React just keeps popping up. There's something kinda messy with they way it works, but there's also something interesting. 
 
 **Link to works:** [Another Todo List](https://codepen.io/JayCruz/pen/mQEpqa)
+
+### Day 67: Nov 10, 2018 
+
+**Today's Progress**: Tried Building a Donut
+
+**Thoughts:** The flu has really kicked my ass this year. I've been under the weather for about two days, but today I'm dying. I just grabbe the first thing I saw today. I think I found this exercise through the [JavaScript Weekly newsletter](https://css-tricks.com/building-a-donut-chart-with-vue-and-svg/). It's all about working with SVG and it also uses Vue. But this is way to advance for me and it went through my head. I did get the circle up there.
+
+**Link to works:** [Making a Donut](Made a Donut)
