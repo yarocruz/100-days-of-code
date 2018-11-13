@@ -583,3 +583,11 @@ Not that I didn't code today, but it was mostly html and css. I just made some n
 **Thoughts:** I first found [this one on YouTube](https://www.youtube.com/watch?v=WjfpQlVem-8) but then I found the [newer and updated one](https://hackernoon.com/a-vue-to-a-view-a-punchbag-game-849bb239629) by doing a Google search. There's just something that's super intuitive to me about using Vue vs React. Just by looking at the code, I can easily figure out what's going on. It's simple to reason about. Of course, like everything, it can get as complex as you want it, but I can reason about more easily about Vue. 
 
 **Link to works:** [Punching Bag](https://codepen.io/JayCruz/pen/QJGRxE)
+
+### Day 70: Nov 13, 2018 
+
+**Today's Progress**: Another Responsive Nav 
+
+**Thoughts:** Easy and short one today. No JS today. Just markup and CSS. This one was a Workshop exercise on Treehouse, [Build a Responsive Navigation with Flexbox](https://teamtreehouse.com/library/build-a-responsive-navigation-with-flexbox)This one had some interesting stuff that I didn't know about. Particularly the rule that that splits up a paragraph in two columns. The Flexbox stuff was already familiar, but I'm getting more comfortable with using media querias with a "mobile first" approach which is using min-width instead of max-width. I've also been meaning to start making a more robust workflow in terms of how I use Sass. So I really want to go through the [Sass Guideline doc](https://sass-guidelin.es/) and really start applying it.
+
+**Link to works:** [Punching Bag](https://codepen.io/JayCruz/pen/aQpREL)
