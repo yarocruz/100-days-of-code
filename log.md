@@ -575,3 +575,11 @@ Not that I didn't code today, but it was mostly html and css. I just made some n
 **Thoughts:** Feeling better today. My head was a bit clearer and the exercise I chose today was pretty easy to follow. This was another exercise I found through the JavaScript Weekly newsletter, [Advanced CSS Theming with Custom Properties and JavaScript](https://www.sitepoint.com/css-theming-custom-properties-javascript/) Technically, they are not CSS Variables, but CSS Custom properties. I finally got to play with these, even tho I always use SASS. I also used a filter property. It's incredible how now you can  almost do some "programming" with CSS now. The JS part of the exercise was simply about changing the color theme by using document.documentElement.setAttribute in which the documentElement is the root or HTML tag and applying the dark theme. 
 
 **Link to works:** [Advanced CSS Theming with Custom Properties and JavaScript](https://codepen.io/JayCruz/pen/GwjwvW)
+
+### Day 69: Nov 12, 2018 
+
+**Today's Progress**: Made a Punching Bag with Vue
+
+**Thoughts:** I first found [this one on YouTube](https://www.youtube.com/watch?v=WjfpQlVem-8) but then I found the [newer and updated one](https://hackernoon.com/a-vue-to-a-view-a-punchbag-game-849bb239629) by doing a Google search. There's just something that's super intuitive to me about using Vue vs React. Just by looking at the code, I can easily figure out what's going on. It's simple to reason about. Of course, like everything, it can get as complex as you want it, but I can reason about more easily about Vue. 
+
+**Link to works:** [Punching Bag](https://codepen.io/JayCruz/pen/QJGRxE)
