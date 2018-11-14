@@ -591,3 +591,11 @@ Not that I didn't code today, but it was mostly html and css. I just made some n
 **Thoughts:** Easy and short one today. No JS today. Just markup and CSS. This one was a Workshop exercise on Treehouse, [Build a Responsive Navigation with Flexbox](https://teamtreehouse.com/library/build-a-responsive-navigation-with-flexbox)This one had some interesting stuff that I didn't know about. Particularly the rule that that splits up a paragraph in two columns. The Flexbox stuff was already familiar, but I'm getting more comfortable with using media querias with a "mobile first" approach which is using min-width instead of max-width. I've also been meaning to start making a more robust workflow in terms of how I use Sass. So I really want to go through the [Sass Guideline doc](https://sass-guidelin.es/) and really start applying it.
 
 **Link to works:** [Another Responsive Nav](https://codepen.io/JayCruz/pen/aQpREL)
+
+### Day 71: Nov 14, 2018 
+
+**Today's Progress**: Trying to use SASS Guidelines and Create Workflows
+
+**Thoughts:** I'm still going through the SASS Guidline doc. Of particular interest is to how start a a project, even if it's super simple. The [7-1 Pattern is a super useful guide](https://sass-guidelin.es/#the-7-1-pattern) But it took me a while to build anything remotely useful. This is probaby the ugliest site I have ever made.
+
+**Link to works:** [Trying to Make Workflows](https://codepen.io/JayCruz/pen/pQeXeR)
