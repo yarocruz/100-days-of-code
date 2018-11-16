@@ -599,3 +599,11 @@ Not that I didn't code today, but it was mostly html and css. I just made some n
 **Thoughts:** I'm still going through the SASS Guidline doc. Of particular interest is to how start a a project, even if it's super simple. The [7-1 Pattern is a super useful guide](https://sass-guidelin.es/#the-7-1-pattern) But it took me a while to build anything remotely useful. This is probaby the ugliest site I have ever made.
 
 **Link to works:** [Trying to Make Workflows](https://codepen.io/JayCruz/pen/pQeXeR)
+
+### Day 72: Nov 15, 2018 
+
+**Today's Progress**: Work with Fetch API / Treehouse Workshop
+
+**Thoughts:** Started a [Treehouse Workshop that teaches how to use the Fetch API](https://teamtreehouse.com/library/working-with-the-fetch-api) The course uses the [Dog API](https://dog.ceo/dog-api/) and grabs images of different breeds of dogs. I stumbled into a problem though when trying to populate the Select tag by fetching all the breeds. I think the data structure was different when the course was made. 
+
+**Link to works:** [Fetch API](https://codepen.io/JayCruz/pen/oQwYPW)
