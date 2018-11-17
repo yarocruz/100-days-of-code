@@ -607,3 +607,11 @@ Not that I didn't code today, but it was mostly html and css. I just made some n
 **Thoughts:** Started a [Treehouse Workshop that teaches how to use the Fetch API](https://teamtreehouse.com/library/working-with-the-fetch-api) The course uses the [Dog API](https://dog.ceo/dog-api/) and grabs images of different breeds of dogs. I stumbled into a problem though when trying to populate the Select tag by fetching all the breeds. I think the data structure was different when the course was made. 
 
 **Link to works:** [Fetch API](https://codepen.io/JayCruz/pen/oQwYPW)
+
+### Day 73: Nov 16, 2018 
+
+**Today's Progress**: Finished Work with Fetch API / Treehouse Workshop
+
+**Thoughts:** Nothing exciting today. Finished the Treehouse Workshop. I'm loosing steam. I think it's time I start tackling my Portfolio. This is all I've been thinking about. I did code some crap up. 
+
+**Link to works:** [Day 73](https://codepen.io/JayCruz/pen/VVzmrK)
