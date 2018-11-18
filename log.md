@@ -615,3 +615,11 @@ Not that I didn't code today, but it was mostly html and css. I just made some n
 **Thoughts:** Nothing exciting today. Finished the Treehouse Workshop. I'm loosing steam. I think it's time I start tackling my Portfolio. This is all I've been thinking about. I did code some crap up. 
 
 **Link to works:** [Day 73](https://codepen.io/JayCruz/pen/VVzmrK)
+
+### Day 74: Nov 17, 2018 
+
+**Today's Progress**: Basic Day / Classes and Webpack
+
+**Thoughts:** Another Basic day. Followed a short Free Code Camp tutorial on JS Classes. Have a stronger connection now on how the class Something extends SomethingElse works. React is really just JavaScript. I finished my hour today watching a workshop on webpack.  
+
+**Link to works:** [Classes Stuff](https://codepen.io/JayCruz/pen/RqZvQK)
