@@ -623,3 +623,12 @@ Not that I didn't code today, but it was mostly html and css. I just made some n
 **Thoughts:** Another Basic day. Followed a short Free Code Camp tutorial on JS Classes. Have a stronger connection now on how the class Something extends SomethingElse works. React is really just JavaScript. I finished my hour today watching a workshop on webpack.  
 
 **Link to works:** [Classes Stuff](https://codepen.io/JayCruz/pen/RqZvQK)
+
+### Day 75: Nov 18, 2018 
+
+**Today's Progress**: Local Storage Workshop on Treehouse
+
+**Thoughts:** This was a 20 something minute workshop on [Treehouse on Local Storage](https://teamtreehouse.com/library/using-local-storage-with-javascript) I pretty much copied the code line by line and then followed along with the video. There's some pretty cool piece of logic going on in this code and I love helper functions. Key methods: localStorage.setItem and localStorage.getItem.   
+JSON.stringify and JSON.parse. 
+
+**Link to works:** [Local Storage Workshop](https://codepen.io/JayCruz/pen/rQGmLq)
