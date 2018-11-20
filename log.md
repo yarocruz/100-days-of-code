@@ -632,3 +632,11 @@ Not that I didn't code today, but it was mostly html and css. I just made some n
 JSON.stringify and JSON.parse. 
 
 **Link to works:** [Local Storage Workshop](https://codepen.io/JayCruz/pen/rQGmLq)
+
+### Day 76: Nov 19, 2018 
+
+**Today's Progress**: Dumbest Treehouse Workshop
+
+**Thoughts:** I think I've done almost all video courses on Treehouse related to JavaScript. I think the only ones I haven't done are the Angular courses. I found a 30 minute workshop on Designing with Illustrator vs Designing in the Browser. The result of the project is in the link below. It's pretty terrible. But I slinged some markup and css. I ended up watching a video on YouTube on classes or the syntactic sugar that is classes.  
+
+**Link to works:** [Dumb Class](https://codepen.io/JayCruz/pen/NEwvOG)
