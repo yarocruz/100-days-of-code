@@ -640,3 +640,11 @@ JSON.stringify and JSON.parse.
 **Thoughts:** I think I've done almost all video courses on Treehouse related to JavaScript. I think the only ones I haven't done are the Angular courses. I found a 30 minute workshop on Designing with Illustrator vs Designing in the Browser. The result of the project is in the link below. It's pretty terrible. But I slinged some markup and css. I ended up watching a video on YouTube on classes or the syntactic sugar that is classes.  
 
 **Link to works:** [Dumb Class](https://codepen.io/JayCruz/pen/NEwvOG)
+
+### Day 77: Nov 20, 2018 
+
+**Today's Progress**: Math Quiz App with Vue
+
+**Thoughts:** Out of all the JS libraries out there, Vue is hands down my favorite. Even with complex apps like the one I followed from [this tutorial](https://medium.com/@NAPOLEON039/how-to-create-a-simple-math-quiz-app-in-vue-b36802b0f4c8), I find working with Vue intuitive. From now on, I will be making this library my main one. 
+
+**Link to works:** [Math Quiz](https://codepen.io/pen/)
