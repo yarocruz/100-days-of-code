@@ -648,3 +648,11 @@ JSON.stringify and JSON.parse.
 **Thoughts:** Out of all the JS libraries out there, Vue is hands down my favorite. Even with complex apps like the one I followed from [this tutorial](https://medium.com/@NAPOLEON039/how-to-create-a-simple-math-quiz-app-in-vue-b36802b0f4c8), I find working with Vue intuitive. From now on, I will be making this library my main one. 
 
 **Link to works:** [Math Quiz](https://codepen.io/pen/)
+
+### Day 78: Nov 21, 2018 
+
+**Today's Progress**: Light Markup, Styling, and Vue Basics
+
+**Thoughts:** Today I just went through some basic boilerplate markup. Played with some SCSS. Finished it off by going through the Vue docs again, and making super basic stuff. Ended up making another todo list.
+
+**Link to works:** [Light Markup, Styling, and Vue Basics](https://codepen.io/JayCruz/pen/oQEyNq)
