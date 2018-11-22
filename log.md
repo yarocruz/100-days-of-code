@@ -656,3 +656,11 @@ JSON.stringify and JSON.parse.
 **Thoughts:** Today I just went through some basic boilerplate markup. Played with some SCSS. Finished it off by going through the Vue docs again, and making super basic stuff. Ended up making another todo list.
 
 **Link to works:** [Light Markup, Styling, and Vue Basics](https://codepen.io/JayCruz/pen/oQEyNq)
+
+### Day 79: Nov 22, 2018 
+
+**Today's Progress**: Dribble Shot as Mockup to Markup and Reversing a String in Plain JS
+
+**Thoughts:** One hour is certainly not enough to make even the simplest web site. Today I just took [a dribble shot](https://dribbble.com/shots/2905982-Marketing-Page-Exercise/attachments/601981) and decide to transfering to markup. Even tho I know that it can take hours to complete a single page site, I'm still surprised on how very little you actually get done in an hour. The CSS reached 89 lines, but all I did was a navbar and a "hero" section. I'm super proud of the navigation though. I have a great handle on making them with flex box. I also replicate the reverse string function with plain Javascript.
+
+**Link to works:** [Speed Coding... Sort of](https://codepen.io/JayCruz/pen/xQWROL)
