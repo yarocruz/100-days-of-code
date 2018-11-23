@@ -664,3 +664,11 @@ JSON.stringify and JSON.parse.
 **Thoughts:** One hour is certainly not enough to make even the simplest web site. Today I just took [a dribble shot](https://dribbble.com/shots/2905982-Marketing-Page-Exercise/attachments/601981) and decide to transfering to markup. Even tho I know that it can take hours to complete a single page site, I'm still surprised on how very little you actually get done in an hour. The CSS reached 89 lines, but all I did was a navbar and a "hero" section. I'm super proud of the navigation though. I have a great handle on making them with flex box. I also replicate the reverse string function with plain Javascript.
 
 **Link to works:** [Speed Coding... Sort of](https://codepen.io/JayCruz/pen/xQWROL)
+
+### Day 80: Nov 23, 2018 
+
+**Today's Progress**: Vue JS Project / Recreating a Plain JS Thing
+
+**Thoughts:** Spent more than an hour today trying to figure out how to first, recreate [this project](https://codepen.io/JayCruz/pen/VVwVxZ) with Vue and I also wanted to add some animations to it. I did manage to get a good start by following [this video](https://www.youtube.com/watch?v=daejkZdeq4A), but I couldn't inject the setTimeout on it, nor could I add the animations to it unless I created a boolean property. 
+
+**Link to works:** [Click to View Different Titles](https://codepen.io/JayCruz/pen/YRLGpW)
