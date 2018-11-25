@@ -680,3 +680,11 @@ JSON.stringify and JSON.parse.
 **Thoughts:** This was a very simple project, but it was something that I figured out by myself. No videos, no tutorials. When you work on your own little ideas, you solidify what you know. Not that this is an original idea, I was looking through Dribbble and saw [this counter animation](https://dribbble.com/shots/5552182-Stepper-VII), and decided to to see how close I can get to make it work that way. I have no idea yet how to make an animation like that, but I got the core functionality of it. It was a pretty straightforward and simple Vue app.
 
 **Link to works:** [Simple Counter](https://codepen.io/JayCruz/pen/jQxoWR)
+
+### Day 82: Nov 25, 2018 
+
+**Today's Progress**: Animating with Vue
+
+**Thoughts:** Early morning session today. Worked again with Vue's <transition> component and read through [the docs](https://vuejs.org/v2/guide/transitions.html#ad) about it. 
+
+**Link to works:** [Vue Transition Animations](https://codepen.io/JayCruz/pen/zMaGor)
