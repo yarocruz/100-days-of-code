@@ -688,3 +688,11 @@ JSON.stringify and JSON.parse.
 **Thoughts:** Early morning session today. Worked again with Vue's <transition> component and read through [the docs](https://vuejs.org/v2/guide/transitions.html#ad) about it. 
 
 **Link to works:** [Vue Transition Animations](https://codepen.io/JayCruz/pen/zMaGor)
+
+### Day 83: Nov 27, 2018 
+
+**Today's Progress**: Started Advance CSS with SASS course with Udemy
+
+**Thoughts:** Yesterday was the very first day were I didn't code. Lot's of things have been going in. I got a new role at my job. New things to process. But I'm back it again. I only have 17 days to go now. I purchased the [Advanced CSS with SASS course on Udemy](https://www.udemy.com/advanced-css-and-sass/). One of things that got me sold on it was that they have a section dedicated to the CSS Architecture with 7-1 methodology. 
+
+**Link to works:** [Advanced CSS Day 1](https://codepen.io/JayCruz/pen/MzqqXr)
