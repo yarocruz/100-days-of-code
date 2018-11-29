@@ -696,3 +696,11 @@ JSON.stringify and JSON.parse.
 **Thoughts:** Yesterday was the very first day were I didn't code. Lot's of things have been going in. I got a new role at my job. New things to process. But I'm back it again. I only have 17 days to go now. I purchased the [Advanced CSS with SASS course on Udemy](https://www.udemy.com/advanced-css-and-sass/). One of things that got me sold on it was that they have a section dedicated to the CSS Architecture with 7-1 methodology. 
 
 **Link to works:** [Advanced CSS Day 1](https://codepen.io/JayCruz/pen/MzqqXr)
+
+### Day 84: Nov 28, 2018 
+
+**Today's Progress**: Day 2 of Advanced CSS Course
+
+**Thoughts:** Did two sessions today. One in the morning and one in the evening. No big updates on the Natours website. Did refactor some of the CSS like many of the fixed pixel dimensions to rem's. I think it has finally sunk in that Rem is relative to the Root, and em is relative to the parent. There's was also some change into the class naming covention. Changed a couple of class names to the BEM(Block, Element, Modifier) Also get a refresher on the Cascade, specificity, inheritance, the !important tag(which you shouldn't be using only if it's absolutely necessary). 
+
+**Link to works:** [Advanced CSS Day 2](https://codepen.io/JayCruz/pen/VVEOEe)
