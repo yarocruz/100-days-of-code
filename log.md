@@ -704,3 +704,13 @@ JSON.stringify and JSON.parse.
 **Thoughts:** Did two sessions today. One in the morning and one in the evening. No big updates on the Natours website. Did refactor some of the CSS like many of the fixed pixel dimensions to rem's. I think it has finally sunk in that Rem is relative to the Root, and em is relative to the parent. There's was also some change into the class naming covention. Changed a couple of class names to the BEM(Block, Element, Modifier) Also get a refresher on the Cascade, specificity, inheritance, the !important tag(which you shouldn't be using only if it's absolutely necessary). 
 
 **Link to works:** [Advanced CSS Day 2](https://codepen.io/JayCruz/pen/VVEOEe)
+
+### Day 85: Nov 29, 2018 
+
+**Today's Progress**: Day 3 of Advanced CSS Course
+
+**Thoughts:** Another two session day. Taking advantage on the off days. Today I worked on alot of things. But the most fun thing was creating the folder structure with SASS and partial folders. I'm learning so many cool stuff. I even made a custom grid doing using the calc function. Used mixins. Used an attribute selector. Refactored all the code and nested things in their proper place. I'm loving this course! 
+
+*I think i'm going to start a repo for this project to link to the most recent updates.
+
+**Link to works:** [Advanced CSS Day 3](https://codepen.io/JayCruz/pen/VVEOEe)
