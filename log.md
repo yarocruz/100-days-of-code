@@ -714,3 +714,13 @@ JSON.stringify and JSON.parse.
 *I think i'm going to start a repo for this project to link to the most recent updates.
 
 **Link to works:** [Advanced CSS Day 3](https://codepen.io/JayCruz/pen/VVEOEe)
+
+### Day 86: Nov 30, 2018 
+
+**Today's Progress**: Day 4 of Advanced CSS Course
+
+**Thoughts:** Finally started working on the Natours project. I'm almost done with the about section. Loving SASS. 
+
+*I think i'm going to start a repo for this project to link to the most recent updates.
+
+**Link to works:** [Advanced CSS](https://codepen.io/JayCruz/pen/VVEOEe)
