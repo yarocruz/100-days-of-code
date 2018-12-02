@@ -724,3 +724,11 @@ JSON.stringify and JSON.parse.
 *I think i'm going to start a repo for this project to link to the most recent updates.
 
 **Link to works:** [Advanced CSS](https://codepen.io/JayCruz/pen/VVEOEe)
+
+### Day 87: Dec 1, 2018 
+
+**Today's Progress**: Day 5 of Advanced CSS Course
+
+**Thoughts:** There's no way I'm going back to writing CSS without SASS. Even for a one page site, using the 7 to 1 folder structure to to organize the structure of a page is so super helpful. The project is freaking awesome. Learning a lot. Haven't done any JavaScript in a few days. Need to get back to it for a bit.
+
+**Link to works:** [Advanced CSS](https://codepen.io/JayCruz/pen/VVEOEe)
