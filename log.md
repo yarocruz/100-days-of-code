@@ -740,3 +740,11 @@ JSON.stringify and JSON.parse.
 **Thoughts:** Still on section 6 of the course. Creating cards to flip is pretty complex. There's a bit of markup to write, and then a whole lotta CSS. You can see my progress below but without the images.
 
 **Link to works:** [Advanced CSS Day 6](https://codepen.io/JayCruz/pen/QJoNoG)
+
+### Day 88: Dec 3, 2018 
+
+**Today's Progress**: Day 7 of Advanced CSS Course
+
+**Thoughts:** Completed the Tours section of the Natours project. Started with the stories section. Learn about the shape-outside property, a very demanding property. 
+
+**Link to works:** [Advanced CSS Day 7](https://codepen.io/JayCruz/pen/VVNLQd)
