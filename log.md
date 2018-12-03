@@ -732,3 +732,11 @@ JSON.stringify and JSON.parse.
 **Thoughts:** There's no way I'm going back to writing CSS without SASS. Even for a one page site, using the 7 to 1 folder structure to to organize the structure of a page is so super helpful. The project is freaking awesome. Learning a lot. Haven't done any JavaScript in a few days. Need to get back to it for a bit.
 
 **Link to works:** [Advanced CSS](https://codepen.io/JayCruz/pen/VVEOEe)
+
+### Day 88: Dec 2, 2018 
+
+**Today's Progress**: Day 6 of Advanced CSS Course
+
+**Thoughts:** Still on section 6 of the course. Creating cards to flip is pretty complex. There's a bit of markup to write, and then a whole lotta CSS. You can see my progress below but without the images.
+
+**Link to works:** [Advanced CSS Day 6](https://codepen.io/JayCruz/pen/QJoNoG)
