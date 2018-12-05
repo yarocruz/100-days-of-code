@@ -741,10 +741,18 @@ JSON.stringify and JSON.parse.
 
 **Link to works:** [Advanced CSS Day 6](https://codepen.io/JayCruz/pen/QJoNoG)
 
-### Day 88: Dec 3, 2018 
+### Day 89: Dec 3, 2018 
 
 **Today's Progress**: Day 7 of Advanced CSS Course
 
 **Thoughts:** Completed the Tours section of the Natours project. Started with the stories section. Learn about the shape-outside property, a very demanding property. 
 
 **Link to works:** [Advanced CSS Day 7](https://codepen.io/JayCruz/pen/VVNLQd)
+
+### Day 90: Dec 4, 2018 
+
+**Today's Progress**: Day 8 of Advanced CSS Course
+
+**Thoughts:** Completed the stories section. Started on the form section. 
+
+**Link to works:** [Advanced CSS Day 8](https://codepen.io/JayCruz/pen/bQyovZ)
