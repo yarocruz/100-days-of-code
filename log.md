@@ -756,3 +756,12 @@ JSON.stringify and JSON.parse.
 **Thoughts:** Completed the stories section. Started on the form section. 
 
 **Link to works:** [Advanced CSS Day 8](https://codepen.io/JayCruz/pen/bQyovZ)
+
+
+### Day 91: Dec 5, 2018 
+
+**Today's Progress**: Day 8 of Advanced CSS Course
+
+**Thoughts:** Almost done with the Natours project. Used the !important "tag" and learned the only reason you should use these. Created a fake custom radio button with just CSS. Did some super ninja advanced selecting. 
+
+**Link to works:** [Advanced CSS Day 9](https://codepen.io/JayCruz/pen/gQNKrx)
