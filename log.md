@@ -765,3 +765,11 @@ JSON.stringify and JSON.parse.
 **Thoughts:** Almost done with the Natours project. Used the !important "tag" and learned the only reason you should use these. Created a fake custom radio button with just CSS. Did some super ninja advanced selecting. 
 
 **Link to works:** [Advanced CSS Day 9](https://codepen.io/JayCruz/pen/gQNKrx)
+
+### Day 92: Dec 6, 2018 
+
+**Today's Progress**: Day 9 of Advanced CSS Course
+
+**Thoughts:** Started working on the navigation part of the Natours project. 
+
+**Link to works:** [Advanced CSS Day 9](https://codepen.io/JayCruz/pen/gQNKrx)
