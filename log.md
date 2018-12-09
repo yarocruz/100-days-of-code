@@ -781,3 +781,11 @@ JSON.stringify and JSON.parse.
 **Thoughts:** Made a navigation slide in thingy with just CSS by using the :checked hack. It's pretty nifty. I'm almost done with the Natours page. I'm finishing the modal popup.
 
 **Link to works:** [Advanced CSS Day 10](https://codepen.io/JayCruz/pen/dwbeXj)
+
+### Day 94: Dec 8, 2018 
+
+**Today's Progress**: Day 11 of Advanced CSS Course
+
+**Thoughts:** Finished with all that it is needed for the Natours site. Now on to making it responsive. 
+
+**Link to works:** [Advanced CSS Day 11](https://codepen.io/JayCruz/pen/QzWjgz)
