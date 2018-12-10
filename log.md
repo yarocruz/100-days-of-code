@@ -789,3 +789,11 @@ JSON.stringify and JSON.parse.
 **Thoughts:** Finished with all that it is needed for the Natours site. Now on to making it responsive. 
 
 **Link to works:** [Advanced CSS Day 11](https://codepen.io/JayCruz/pen/QzWjgz)
+
+### Day 95: Dec 10, 2018 
+
+**Today's Progress**: Day 12 of Advanced CSS Course
+
+**Thoughts:** Working on making the site responsive. Making a website responsive is so much work!
+
+**Link to works:** [Advanced CSS Day 12](https://codepen.io/JayCruz/pen/roaLJX)
