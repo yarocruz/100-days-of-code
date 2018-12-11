@@ -797,3 +797,11 @@ JSON.stringify and JSON.parse.
 **Thoughts:** Working on making the site responsive. Making a website responsive is so much work!
 
 **Link to works:** [Advanced CSS Day 12](https://codepen.io/JayCruz/pen/roaLJX)
+
+### Day 96: Dec 11, 2018 
+
+**Today's Progress**: Day 13 of Advanced CSS Course
+
+**Thoughts:** The Natours website is 99.94% mobile ready. Things collapse into 1 column and they look good. Now I'm on a part of the course where I'm learning about responsive images, and the different techniques you can use now a days. Like the srcset attribute which let's the browser pick the appropriate image.
+
+**Link to works:** [Advanced CSS Day 13](https://codepen.io/JayCruz/pen/JwdOVY)
