@@ -805,3 +805,11 @@ JSON.stringify and JSON.parse.
 **Thoughts:** The Natours website is 99.94% mobile ready. Things collapse into 1 column and they look good. Now I'm on a part of the course where I'm learning about responsive images, and the different techniques you can use now a days. Like the srcset attribute which let's the browser pick the appropriate image.
 
 **Link to works:** [Advanced CSS Day 13](https://codepen.io/JayCruz/pen/JwdOVY)
+
+### Day 97: Dec 12, 2018 
+
+**Today's Progress**: Day 14 of Advanced CSS Course
+
+**Thoughts:** Finished with the responsive images part and learned different methods to apply different images according to resolution and or screen width. Next up is going to be a build process using NPM.
+
+**Link to works:** [Advanced CSS Day 14](https://codepen.io/JayCruz/pen/PXPQNV)
