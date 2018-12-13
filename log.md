@@ -813,3 +813,11 @@ JSON.stringify and JSON.parse.
 **Thoughts:** Finished with the responsive images part and learned different methods to apply different images according to resolution and or screen width. Next up is going to be a build process using NPM.
 
 **Link to works:** [Advanced CSS Day 14](https://codepen.io/JayCruz/pen/PXPQNV)
+
+### Day 98: Dec 13, 2018 
+
+**Today's Progress**: Day 15 of Advanced CSS Course
+
+**Thoughts:** Officially done with the Natours project. Started section 7 which is all about Flexbox and a new project called Trillo. Even tho I've played with Flexbox many times, I still get confused with the properties sometimes. But now I know that the justify-content property affects items on the main axis, which by default is from left to right and if the flex-direction is in row, which is the one that's by default. The cross axis is by default from top to bottom. But here is when it gets tricky: if the flex-direction is column, the justify-content property works from top to botton because now the main axis is actually the cross axis. Confusing right?
+
+**Link to works:** [Advanced CSS Day 15](https://codepen.io/JayCruz/pen/OrMgPJ)
