@@ -829,3 +829,11 @@ JSON.stringify and JSON.parse.
 **Thoughts:** Started the Trillo project which is going to be mostly about flexbox. I can't believe I'm almost done.
 
 **Link to works:** [Advanced CSS Day 16](https://codepen.io/JayCruz/pen/PXNPqr)
+
+### Day 100: Dec 15, 2018 
+
+**Today's Progress**: Day 17 of Advanced CSS Course
+
+**Thoughts:** And with this I conclude the 100 days of code challenge. This has been challenging and awesome at the same time. 
+
+**Link to works:** [Advanced CSS Day 17](https://codepen.io/JayCruz/pen/MZyqWQ)
